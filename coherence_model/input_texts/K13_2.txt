@@ -1,0 +1,51 @@
+Agile Dokumentation sind in erster Linie  normale  Dokumentationen eines Projekts . Sie sind 
+agil sobald sie den Stakeholder Return on Investment  maximieren, das bedeutet , dass die 
+Dokumentation einen höheren Nutzen hat, als die Kosten für die  Erstellung und die Pflege 
+sind. Die Stakeholder sind über die Eigentumsgesamtkosten des Dokuments informiert . 
+Agile Dokumente verfolgen das Optimum -Prinzip , das heißt sie enthalten nur das Nötigste , 
+um voll zu funktionieren bzw. sind kurzgehalten  aber ausreichend. Außerdem setzen agile 
+Dokumente voraus,  dass sie  einem  gewissen Zweck dienen , sie Dinge beschreiben  die 
+Synergieeffekte erzeugen, sie einen bestimmten Kunden haben, dessen Arbeit erleichtern , 
+ausreichend genau  dokumentiert,  konsistent und  detailliert  sind.8 Die agile Dokumentation 
+ist ein genauso wichtiges Instrument der agilen Softwareentwicklung wie die anderen  oben 
+genannten Instrumente. Gerade bei sehr komplexen Projekten, welche sich über einen 
+längeren Zeitraum strecken, ist die agile Dokumentation umso wichtiger, da diese 
+kontinuierlich betreut und gewartet werden muss . Ein weiteres Beispiel ist eine  Person, die 
+an dem Projekt mitgearbeitet ha t und nun nicht mehr beteiligt ist oder eine Aushilfe die 
+eingestellt ist, für alle diese Fälle gibt es die agile Dokumentation. Eine einfache 
+Dokumentation, wie beispielsweise nur die des Sourcecode , ist in den oben genannten  Fällen  
+zwar ein wichtiger Punkt, jedoch nicht ausreichend für eine optimale Dokumentation. Gar 
+nicht zu dokumentieren kostet  auf langfristige Sicht auch mehr Zeit , als agil zu 
+dokumentieren . Grund  dafür ist der Zeitverlust für  Wartungen und , dass  man erstmal 
+herausfinden muss, was in dem bestimmten  Schritt überhaupt gemacht wurde.9 Es gibt 
+verschiedene Arten bzw. Modelle von Dokumenten , welche die Agilität unterstützen . Eines 
+dieser  Modelle ist das Vertragsmodell, dieses definiert die technische Schnittstelle zu einem 
+System oder einem Teil eines Systems, welches für andere Teams vorgesehen ist. Eine 
+beteiligt ist, die Art der Interaktion mit anderen Systemen, Datenbanken und Dateien, 
+Verweise auf Sicherungsverfahren, eine Liste der Kontaktstellen für das  System und  wie es  
+zu erreichen ist , eine Zusammenfassung der Verfügbarkeits -/Zuverlässigke itsan forderungen 
+für das  System, eine Angabe des erwarteten Lastprofils Ihres Systems und Richtlinien zur 
+Fehlerbehebung , welche das Betriebspersonal unterstützen.  Bei einer Projektübersicht 
+handelt es sich um eine Zusammenfassung kritischer Informationen, wie der Vision für das 
+System, der primären Benutzerkontakte, der Technologien und Tools, die man zum Erstellen 
+des Systems verwendet und der kritischen Betriebsprozesse . Außerdem enthält  es auch 
+Verweise auf kritische Projektartefakte wie den Quellcode, wo sich die permanenten 
+Modelle des Systems  und wo sich andere Dokumente befinden . Weiterhin  unterstützt sie 
+Entwickler, Manager, Wartungsentwickler und Betriebspersonal. Als nächste Dokumentart 
+ist das Anforderungsdokument  zu nennen , in diesem Dokument wir d definiert  was das 
+System tut . Zusätzlich fasst oder setzt es Anforderungsartefakte , wie 
+Geschäftsregeldefinitionen, Anwendungsfälle, User Stories oder wichtige Prototypen der 
+Benutzeroberfläche zusammen.  Dieses Modell dient Benutzern, Entwicklern, 
+Wartungsentwicklern und Benutzermanagern als Vorlage. Eine weitere Art, ist  die 
+Systemdokumentation , hier besteht der Zweck darin  einen Überblick über das System zu 
+geben und den Benutzern das Verständnis des Systems zu erleichtern. Zu den allgemeinen 
+Informationen in diesem Dokument gehört ein Überblick über die technische Architektur, 
+die Geschäftsarchitektur und die allgemeinen Anforderungen an das System. Gegebenenfalls 
+können auch detaillierte Architektur - und Entwurfsmodelle oder Verweise darauf enthalten 
+sein, um Wartungsentwickler und Entwickler zu unterstützen. Das letzte Dokumentenmodell 
+ist das Benutzermodell,  die Benutzer benötigen möglicherweise ein Referenzhandbuch, eine 
+Bedienungsanleitung, eine Supportanleitung und sogar Schulungsmaterialien. Es ist wichtig, 
+dass man zwischen diesen verschiedenen Dokumenttypen unterscheidet, da die Art und 
+Weise, in der die einzelnen Dokumente zu verwenden sind , unterschiedlich ist.  Zum einen 
+für schnelle Suchvorgänge, zum anderen um herauszufinden, wie man mit dem System 
+arbeitet oder zusätzliche Hilfe erhält , sowie für das Training.

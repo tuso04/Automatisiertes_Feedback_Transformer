@@ -1,0 +1,22 @@
+Motivation und Problemstellung:
+• Das Wort Reports ist das welches Sie bei 1&1 kennengelernt haben und was dahinter steckt. Hier im Exposé müssen Sie genauer erklären was das sein soll.Sie müssen ohnehin die Problemstellung und was Reports sind und so weiter viel genauer erklären.
+• Das ist etwas schwammig. Es sollte schon ein „Konzept“ eine „Vorgehensweise“, ein „Verfahren“ entwickelt werden
+• Im Exposé schreiben Sie nur von „optimal“ bzw. „Optimierung“. Sie müssen auch erklären, was das denn sein soll. Dazu können Sie auch Beispiele bringen
+• Das ist zu „kryptisch“ mit den Daily Management Reports (siehe dazu auch meine Anmerkungen von oben)
+• 
+• In Kapitel 6 fehlt ein Unterkapitel mit den Ergebnissen
+• Für die Evaluation der Ergebnisse benötigten Sie eine Methodik. Die Bewertung durch die Nutzer muss ein klar strukturiertes Vorgehen haben. Wollen Sie eine UX-Test machen, qualitative Interviews …? Das kommt hier nicht raus. Die Nutzer zu fragen „wie finden Sie es ?“ reicht nicht aus
+
+Forschungsfrage:
+• Die Fragestellung ist insoweit okay, da sie allgemeingültig ist und nicht „nur“ ein spezifisches Problem von 1&1 löst.
+
+Ziel der Arbeit:
+• Das ist für einen Außenstehenden  unverständlich. Das müssen Sie besser erklären. Und wie oben gesagt reicht es nicht aus „nur“ ein 1&1-Problem zu lösen.
+• Eines Katalogs für was?
+
+Methodisches Vorgehen:
+• Hier müssen Sie noch ergänzen, wie Sie methodisch die Evaluation durchführen wollen.
+• Das Wort „Methoden“ ist zu allgemeingültig. Schreiben Sie konkret was für Methoden
+• In der Gliederung fehlt der komplette Grundlagenteil oder er „versteckt“ sich alleinig in dem Kapitel 3. Sie müssen viel mehr dazu schreiben, was Reports sind, für was man die braucht, was Smartphone-Optimierung bedeutet, was der aktuelle Stand der Forschung im Bereich der smarthpone-optimierten Darstellung von Reports ist …..
+• In der Gliederung fehlt klar gekennzeichnet ein Kapitel mit Ihrem „Konzept“ Falls das das Kapitel 6 sein soll, ist der Kapitelname noch nicht passend
+

@@ -1,0 +1,53 @@
+Da nun die Deﬁnition von KI und schon ein paar Eigenschaften bekannt sind, wird sich
+jetzt mit den Techniken für die Umsetzung von KI und den dazu passenden Einsatzgebieten
+auseinandergesetzt. KI ist nicht darauf beschränkt, dass sie auf einen Weg umgesetzt werden
+muss. Für unterschiedliche Anwendungen gibt es unterschiedliche Ansätze wie KI-Probleme
+lösen kann, die jeweils optimal für die Anwendung sind. Wir betrachten hierfür drei Techni-
+ken eine KI umzusetzen.
+Eine Kategorie der KI ist die wissensbasierte KI. Sie kann basierend auf Regeln Fakten ab-
+leiten, welche dann genutzt werden können um Aussagen zu treffen13. Hierbei konzentrieren
+wir uns auf eine bestimmte Art der wissensbasierten KI. Dies ist die Prädikatenlogik, welche
+Eigenschaften der Aussagenlogik enthält14. Es wäre zwar möglich direkt mit der Aussagen-
+logik KI’s umzusetzen, aber diese kann viele Problemstellungen nur umständlich oder gar
+nicht dargestellt werden15. Auf den mathematischen Unterschied zwischen Aussagenlogik
+und Prädikatenlogik wird hier nicht weiter eingegangen. Wer darüber trotzdem mehr Erfah-
+ren möchte, kann einen guten Vergleich im Buch „Grundkurs künstliche Intelligenz“ von
+Ertel, Wolfgang ﬁnden. Die Prädikatenlogik kann eingesetzt werden, wenn eine Umgebung
+mit gewissen Gesetzen existiert, welche dann auf Daten angewendet werden kann. Dadurch
+können Daten auf Korrektheit geprüft werden. Eingesetzt wird dieses System um automa-
+tisch Aussagen der Mathematik zu beweisen und Veriﬁkationsaufgaben in der Informatik zu
+lösen16. Die Prädikatenlogik ist zwar gut dafür geeignet Sachverhalte zu überprüfen, aber
+weniger zu analysieren und darauf basierend Aussagen oder Entscheidungen zu treffen. Zu
+bedenken ist aber, die Prädikatenlogik ist nur eingeschränkt möglich. Im folgenden wird Ma-
+chine Learning analysiert.
+Machine Learning bedeutet, wie der Name schon beinhaltet, maschinelles Lernen. Der Mensch
+besitzt die Fähigkeit schnell zu lernen und ist momentan der KI überlegen17. Um zu verste-
+hen wie maschinelles Lernen (ML) funktioniert, deﬁnieren wir welche Art von lernen für
+ML genutzt wird. Auswendig lernen ist für ML uninteressant, da Rechner Daten abspei-
+chern können und jeder Zeit wieder abrufen können. Hingegen kann eine Rechenoperation
+nicht auswendig gelernt werden, da es unendliche Rechenoperationen mit unendlich vielen
+Zahlen gibt, was es unmöglich macht alles nur abzuspeichern und wieder abzurufen. Hier
+wird ML interessant. Durch Testdaten lernt die KI-Datensätze zu kategorisieren und analy-
+sieren18. Oft ﬁndet das ML in der echten Welt Anwendung. Eine bekannte Anwendung da-
+für ist „Google Translate“ (https://translate.google.com/?hl=de). „Google Translate“ ist eine
+freie Übersetzungssoftware welche nicht nur mit Textelementen, sondern z.B. auch Bilder in
+Echtzeit übersetzen kann. Die Software benutzt statistisches ML um übersetzen zu lernen19.
+Da Übersetzungen aber noch zu den Kategorien gehört, welche schwer für KI zu lösen ist,
+gehört „Google Translate“ zu den schwächeren Übersetzern20.
+Als letzte Technik betrachten wir neuronale Netzwerke (NN). Neuronale netzwerke kommen
+dem menschlichen Denken am nächsten, da sie versuchen das menschliche Gehirn zu imitie-
+ren. Sie bestehen aus Neuronen und Synapsen also Verbindungen zwischen Neuronen. Jedes
+Neuron ist ein kleiner Speicher und die Neuron Verbindungen, dienen zur Kommunikation
+zwischen Neuronen21. Normalerweise gibt es eine Eingabe Schicht von Neuronen, wo Daten
+gespeist werden. Dann gibt es eine bis mehrere Schichten zur Verarbeitung der Daten durch
+Aufsummierung von vorherigen Daten mit gewissen Gewichtungen22. Am Ende gibt es eine
+Ausgabeschicht, welche das Ergebnis darstellt. Es gibt einige Lern-Algorithmen die man auf
+ein neurales Netzwerk anwenden kann. Der am meisten genutzte ist der „Backpropagation-
+Algorithmus“. Dieser speist das NN mit Daten und vergleicht den Ist-Wert mit dem Soll-
+Wert. Wenn der Ist Wert nicht dem Soll-Wert entspricht, iteriert der Algorithmus rückwärts
+über die Neuronen Schichten und berechnet die jeweiligen Gewichte so, dass der Soll-Wert
+erreicht wird. Dies wird so lange wiederholt bis der Annäherungswert nahe genug am Soll
+Wert ist23. Die Technik der NN kann auf viele Anwendungen der reellen Welt angewandt
+werden. Facebook nutzt diese Technik für ihre künstlichen Intelligenzen für unterschied-
+liche Zwecke. Ein wichtiger Bestandteil davon ist ein NN entscheiden zu lassen, welche
+Werbungen Usern zu zeigen, um Umsatz zu generieren24.

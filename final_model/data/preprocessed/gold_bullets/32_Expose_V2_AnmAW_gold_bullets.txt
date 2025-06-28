@@ -1,0 +1,18 @@
+Motivation und Problemstellung:
+• Das müsste doch eher heißen „ .. auch viele Großunternehmen“ ?
+• Agile Methoden, oder?
+• Nennen Sie das was Sie machen besser Untersuchung. Studie klingt danach, dass Sie wissenschaftliche Standards erfüllen. Dem ist aber nicht so, zumindest bei der Umfrage (siehe Kommentar unten)
+• Auf was bezieht sich diese „Hier“ ? Bitte klarer formulieren
+• Keine Fragen in Kapitelnamen!
+• Als Unterkapitel fehlt hier etwas für das „Fragenbogendesign“Außerdem muss als erstes Unterkapitel von 11 welche Ziele die Umfrage verfolgt
+
+Forschungsfrage:
+• Vorsicht: bitte nirgendwo den Begriff empirisch verwenden. Das was Sie machen ist eine eher „weiche“ Untersuchung, da 19 Personen für eine quantitative empirische Befragung viel zu wenige Personen sind.
+• Kapitel 6 und 7 würde ich in Kapitel zusammenfassen und besser dann zwei Unterkapitel machen.Die Begriffsabgrenzung ist auch noch nicht gut. SCRUM ist z.B. eine agile Methode und keine spezielle agile Methode für Großunternehmen. SAFE ist explizit gedacht für Großprojekte ….
+• Da haben Sie nicht angegeben was in dem Kapitel drin sein soll. Vom roten Faden ist bei Kapitel 8 auch nicht klar wie es sich inhaltlich von Kapitel 6 und 7 abgrenzt. Da besteht die Gefahr, dass Sie dann was doppelt schreiben.Kapitel 8 in Kapitel 6/7 als Unterkapitel umbenannt integrieren?...
+
+Ziel der Arbeit:
+
+Methodisches Vorgehen:
+• Dieses Wort bitte auch vermeiden. Am besten einfach von Auswertung der Ergebnisse sprechen. Wie geschrieben bedarf es bei einer quantitativen Methode nach wissenschaftlichen Standards mehr Personen
+

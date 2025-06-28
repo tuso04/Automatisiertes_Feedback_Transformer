@@ -1,0 +1,60 @@
+=== LEGENDE ===
+K_text: Texte mit K-Prefix (Kategorie K)
+W_text: Texte mit W-Prefix (Kategorie W)
+other: Texte mit anderen Prefixen
+mixed: Künstlich erstellte Mischtexte
+
+Signifikanzniveaus: *** p<0.001, ** p<0.01, * p<0.05, n.s. nicht signifikant
+Effektgrößen: r≥0.5 groß, r≥0.3 mittel, r≥0.1 klein, r<0.1 vernachlässigbar
+M = Mittelwert, SD = Standardabweichung, N = Anzahl
+======================================================================
+
+=== DESKRIPTIVE STATISTIKEN ===
+
+W_TEXT:
+  Lokale Kohärenz:     M=0.1997, SD=0.0621, N=40
+  Globale Kohärenz:    M=0.3740, SD=0.2223, N=40
+  Thematische Kohärenz: M=0.8903, SD=0.0290, N=40
+
+K_TEXT:
+  Lokale Kohärenz:     M=0.4027, SD=0.1109, N=46
+  Globale Kohärenz:    M=0.5196, SD=0.1586, N=46
+  Thematische Kohärenz: M=0.7974, SD=0.0637, N=46
+
+MIXED:
+  Lokale Kohärenz:     M=0.1708, SD=0.0308, N=86
+  Globale Kohärenz:    M=0.1302, SD=0.0488, N=86
+  Thematische Kohärenz: M=0.8394, SD=0.0686, N=86
+
+======================================================================
+=== INFERENZSTATISTISCHE TESTS ===
+
+LOCAL KOHÄRENZ:
+------------------------------
+Kruskal-Wallis Test: H=95.5360, p=0.0000
+→ Hochsignifikanter Gesamtunterschied (p < 0.001)
+
+  Paarweise Vergleiche für LOCAL:
+    W_text vs K_text: U=84.00, p=0.0000, r=0.781 (***, großer Effekt)
+    W_text vs mixed: U=2158.00, p=0.0218, r=0.205 (*, kleiner Effekt)
+    K_text vs mixed: U=3916.00, p=0.0000, r=0.806 (***, großer Effekt)
+
+GLOBAL KOHÄRENZ:
+------------------------------
+Kruskal-Wallis Test: H=112.8632, p=0.0000
+→ Hochsignifikanter Gesamtunterschied (p < 0.001)
+
+  Paarweise Vergleiche für GLOBAL:
+    W_text vs K_text: U=560.00, p=0.0019, r=0.336 (**, mittlerer Effekt)
+    W_text vs mixed: U=3172.00, p=0.0000, r=0.678 (***, großer Effekt)
+    K_text vs mixed: U=3925.00, p=0.0000, r=0.809 (***, großer Effekt)
+
+THEMATIC KOHÄRENZ:
+------------------------------
+Kruskal-Wallis Test: H=34.8931, p=0.0000
+→ Hochsignifikanter Gesamtunterschied (p < 0.001)
+
+  Paarweise Vergleiche für THEMATIC:
+    W_text vs K_text: U=1608.00, p=0.0000, r=0.642 (***, großer Effekt)
+    W_text vs mixed: U=2447.00, p=0.0001, r=0.339 (***, mittlerer Effekt)
+    K_text vs mixed: U=1374.00, p=0.0039, r=0.251 (**, kleiner Effekt)

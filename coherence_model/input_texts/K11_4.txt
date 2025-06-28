@@ -1,0 +1,37 @@
+Die entscheidende Voraussetzung für den erfolgreichen Einsatz von KI -Technologien ist 
+einerseits die Verfügbarkeit entsprechender Rechenkapazität, die es inzwischen ermöglicht 
+vormals theoretisch mögliche Anwendungen jetzt umzusetzen.  So wurden die theoretischen 
+Grundlagen von KI-Anwendungen bereits  in der Mitte des 20. Jahrhunderts gelegt , wurden 
+aber erst durch die massiven Fortschritte in der Speicherung und  
+Verarbeitungsgeschwindigkeit von Daten (Moore’s Law)  zuerst umsetzbar und letztlich 
+wirtschaftlich.  Der Wert eines KI -Modelles ergibt sich zunächst einmal über die Effizienz - und 
+Effektivitätsgewinne, die sich durch die Anwendung generieren lassen. Um diese zu erzielen 
+benötigen die Trainer einer KI detailliertes Wissen über die von Ihnen verwendeten 
+Techniken, sowie über  das Umfeld, für das die KI trainiert werden soll. Darüber hinaus ist 
+jedes KI -Modell in seiner Performanz stark abhängig von der Menge und Qualität der Daten, 
+mit denen es trainiert wird.  Im Energiesektor ist die Datenlage aufgrund der Notwendigkeit, 
+das Netz konstant verlässlich zu monitoren auf der aggregierten Ebene im Vergleich zu 
+anderen Bereichen in denen man sich erfolgreiche KI -Anwendungen erhofft bereits recht 
+weit fortgeschritten, gleichzeitig besteht große Hoffnung in der zunehmenden Ausstattung 
+von möglichst vielen Endgeräten, Stromzählern , Netzelementen und Produktionsstellen, 
+über offene Schnittstellen die Datenlage weiter zu verbessern und so im Extremfall ein 
+möglichst präzises Gesamtbild des aktuellen Netzes zu erfassen.  Aggregierte Daten der 
+Strombörse sind bereits im Netz bei der Bundesnetzagentur7 spezifisch abrufbar, darüber 
+hinaus gibt es mehrere öffentlich zugängliche, historische Datenbanken mit deren Hilfe es 
+möglich ist, beispielsweise prädiktive Modelle  für Stromproduktion von Windkraftanlagen zu 
+trainieren.  Die für die  erneuerbare Erzeugung so relevanten Wetterdaten sind über den DwD  
+8ebenfalls frei verfügbar, benötigen allerdings nach erster Durchsicht einiger Vorbereitung,  
+um angemessen genutzt werden zu können.  Kommerziell direkt nutzbare Zugänge wie 
+beispielsweise direkt an der Leipziger Strombörse sind allerdings kostenpflichtig und Teil des  
+ökonomischen Systems  und kommen mit entscheidenden Vorteilen was Verfügbarkeit, 
+Übertragungsgeschwindigkeit,  und besserer Aufarbeitung. Die Erweiterung der 
+Datenerfassung ist wichtig weil einerseits viel Koordination darauf aufbaut, dass Elemente 
+des Netz es miteinander möglichst direkt und schnell miteinander kommunizieren können, 
+und andererseits weil viele nützliche KI -Anwendungen erst durch die Verknüpfung von 
+unterschiedlichen Daten  und die Ergebnisse anderer KI -Anwendungen möglich werden, wie  
+im Beispiel der prognostizierte Stromproduktion in einer Windkraftanlage als einen 
+wichtigen Input aktuelle Wetterdaten benötigt, die zeitnah erfasst, verarbeitet und 
+weitergeleitet werden müssen.  Viele KI -Anwendungen im Energiebereich trainieren ein oder 
+mehrere Modelle zu speziellen Anwendungszwecken und verkaufen die Ergebnisse und 
+Kompetenzen dieser Modelle dann über eine SaaS -Lösung an unterschiedliche 
+Marktteilnehmer im Energiesystem.  

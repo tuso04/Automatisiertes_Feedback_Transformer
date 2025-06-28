@@ -1,0 +1,13 @@
+Motivation und Problemstellung:
+
+Methodisches Vorgehen:
+• Das nicht als Extrakapitel; das kann in das Kapitel 4 rein
+• Da passen die Unterkapitel teilweise auch noch nicht; Logik müsste doch wie folgt seinI) Untersuchungsgegenstand und AnnahmenII)Struktur und Ablauf der Untersuchung(da gerne dann unterteilt nach den zwei Gruppen „Theorie“ und „App“III) FragenbogendesignIV) Lernmaterial V) Darstellung und Auswertung der Ergebnisse
+• Falls das eine Methode zur Lernerfolgsmessung in Serious Games ist, dann gehört die Erläuterung der Methode  (auch) in ein vorheriges Kapitel zu Lernerfolgsmessung
+
+Forschungsfrage:
+• Soll beantwortet werden
+• Das ist vielleicht eine etwas zu ambitionierte Forschungsfrage.Besser in die Richtung: Welche Unterschiede hinsichtlich des Lernerfolgs lassen sich zwischen der Lernapp iKanban und theoretischer Wissensvermittlung identifizieren?
+• Bitte keine Subfragen sondern eine knackige Forschungsfrage. Subfragen müssen in der Regel sowieso bearbeitet werden wenn die Hautpforschungsfrage bearbeitet wird
+• Das ist keine Zielformulierung. Bitte das Ziel konkret formulieren. Ziel und Foschungsfrage müssen zwar zusammenpassen sind aber nicht das gleiche!
+

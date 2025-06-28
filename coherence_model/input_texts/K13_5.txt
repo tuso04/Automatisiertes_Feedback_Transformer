@@ -1,0 +1,111 @@
+Es treten in der gesamten agilen Methodik normale Probleme auf , die es bei jedem Projekt 
+geben kann,  welche die Theo rie jedoch nicht berücksichtigt . Beispielsweise verfügt das 
+Projekt nicht über genügen d Mittel, Infrastruktur oder Berechtigungen. Des Weiteren kann 
+es zu unausweichlichen Verzögerungen kommen , die durch  die Behebung von Bugs, 
+fehlendem Personal oder falscher Planung entstehen.  Ein Praxisbeispiel , um den Unterschied 
+zwischen Theorie und Praxis darzustellen, findet anhand von Scrum, der wohl bekanntesten 
+agilen Methode statt. Scrum ist ein Vorgehensmodell  bei Entwicklungsprojekten für das 
+Produkt und Projektmanagement . Im Scrum -Projekt soll es nur wenige und einfache Regeln 
+geben, die dazu da sind , das Projekt nicht unnötig komplex zu gestalten und die Zi ele des 
+Projektteams gemeinsam zu erreichen.  Die wic tigsten Aspekte, welche ein Scrum -Projekt 
+ausmachen , sind Flexibilität , Dynamik und  tägliche Meetings, in denen die 
+Projektmitarbeiter ihre Aufgaben besprechen. In Scrum gibt es drei Rollen, den  
+Projekteigner, den  Scrum -Master und das Mitglied des Projektteams. Der Projekteigner sind 
+jene Personen , die ein Interesse am Erfolg des Projekts haben und davon betroffen sind . Also 
+die Anwender des Produkts bzw. die Stakeholder des Projekts. Sie wollen,  dass das Projekt 
+im Falle einer Software einwandfrei läuft , also sind sie die Nutzer oder im Falle von 
+Produkten die Produktmanager . Sie vertreten die Meinung der Kunden und  wissen  somit, 
+was sich die Kunden wüschen . Der Scrum -Master ist die Person, welch e die Verantwortung 
+im gesamten Scrum -Prozess trägt . Er ist in der Rolle des Moderators und des Unterstützers 
+für das Projektteam. Außerdem beschafft er die Ressourcen und fungiert als Ansprechpartner 
+für Außenstehende. Er hilft dem Team bei Problemstellungen und sorgt dafür, dass man alle 
+Regeln des Projektmanagements einhält. Zu guter Letzt kommt das Projektteam,  in welchem 
+5- 10 Teammitglieder sind. Diese organisieren ihre Aufgaben für das Projekt eigenständig, 
+jedes Teammitglied hat die gleichen Rechte,  aber unterschiedlichen  Kompetenzen. Es ist aus 
+jedem Fachbereich, der wichtig für die Zielerfüllung ist, mindestens ein Mitarbeiter 
+vertreten. Ein weiterer wichtiger Punkt des Scrum -Projekts ist der Scrum -Prozess, dieser ist 
+durch eine Produkt -Vision des Auftraggebers definiert und geht als Auftrag ein. Die 
+Produkt -Vision wird in sogenannte Story Cards überführt , sie beschreiben einzelne 
+Elemente, Funktionen und Merkmale des Produkts. Der erste Schritt des Scrum -Prozesses  
+ist das Anlegen und Pflegen  des Product Backlogs, dieser besteht aus den Anforderungen 
+des Projekteigners und den Story Cards . Hier entstehen Prioritäten für Elemente und 
+Funktionen, welche wichtig sind und die Anwender zufriedenstellen. Der zweite Schritt ist 
+das Erstellen den Sprint Back logs im Sprint Planning, in dem Sprint Planning stehen die 
+Aufgaben für den nächsten geplanten Sprint sowie  das Sprint -Ziel. Daraus entwickelt das 
+Projektteam den Sprint Backlog, in dem eine Auswahl an Product -Backlog Einträgen und 
+der Umsetzungsplan zusammengefasst ist. Der dritte Schritt ist die Besprechung des 
+Arbeitsfortschritts im Daily Scrum . Hier bespricht das Projektteam in einem 15 -minütigen 
+Treffen, was jeder Einzelne seit dem letzten Daily Scrum  geleistet hat, was er bis zum 
+nächsten Daily Scrum leisten wird und was ihm  bei der Arbeit behindert. Das alles hält eine 
+Grafik fest und zeigt auf , wie der Stand des Projekts voranschreitet.  Der vierte Schritt ist das 
+Prüfen und Abnehmen der Sprint -Ergebnisse im Sprint -Review . Jede Sprint -Review schließt 
+einen Sprint ab . Hier stellt das Team die bisherigen Ergebnisse dem Produkteigner vor und 
+dieser prüft die Sprints auf die festgelegten Kriterien. Ist alles in Ordnung , beginnt man 
+wieder mit dem zweiten Schritt, bis das Produkt entwickelt und das Projekt abgeschlossen 
+ist. Der fünfte und letzte Schritt ist das Besprechen der Zusammenarbeit mit einer Sprint 
+Retrospective , wo die Mitglieder des Projektteams  besprechen , wie der Sprint in B ezug auf 
+Ablauf, Zusammenarbeit und Werkzeuge lief , ebenso  halten  sie fest, was für den nächsten 
+Sprint zu verbessern ist. Dieser Schritt dient als Vorlage für zukünftige Projekte. Das ist das Scrum -Prinzip in der Theorie, in der Praxis sieht dieses nicht ganz so aus, schon 
+im ersten Schritt zeigen sich Ungleichheiten zur Theorie. Bei dem Erstellen von Prod uct 
+Backlogs gibt es niedriger priorisierte Einträge , dadurch dass man diese erst gegen Ende hin 
+betrachtet , kann es dazu kommen,  dass man Ideen nicht zu Ende denkt  und somit wichtige 
+Ansätze verloren gehen. Das führt zu einer Erhöhung der Gesamtkosten im weiteren 
+Projektverlauf, da sich der Gesamtaufwand er höht und bereits implementierte 
+Funktionalitäten umzubauen sind. Man dreht sozusagen extra Runden , anstatt den kürzesten 
+Weg zum Ziel zu nehmen.  Der nächste Punkt , um den Unterschied darzustellen , ist die Rolle 
+des Produkteigners . Da eine Person alleine diese Rolle übernimmt, ist sie mit einem sehr 
+hohen Aufwand , den man meistens unterschätzt , verbunden. Das führt zu 
+Missverständnissen der Anforderungen, was den Entwicklern Zeit und Qualität kostet . 
+Gerade die Minderung der Qualität steht im Konflikt zu der  Theorie des Produkteigners, da 
+er auch  gleichzeitig Kunde ist. In der Scrum -Theorie sind User Storys ein fester Bestandteil, 
+jedoch ist die Nutzung nicht wirklich vorgeschrieben und auch nicht zwingend notwendig. 
+Hat man beispielsweise Projekte , in denen überwiegend Algorithmen implementiert sind, so 
+ist eine umfangreiche Dokumentation des Sachverhalts viel besser. Außerdem ist gerade bei 
+neuartigen Entwicklungsprojekten die Komplexität der Anforderungen schwer 
+einzuschätzen. Ein weiterer Unterschied  sind die Sprint Backlogs des Sprints im zweiten 
+Schritt . Es ist nicht ausgeschlossen, dass man Sprintbacklogs im Sprint verändern darf, 
+solange das Sprint -Ziel und die Qualität des Produkts nicht in Gefahr geraten. Diese 
+Änderungen sind notwendig, um die Anforderungen des Kunden zu erfüllen bzw. um einen 
+Kompromiss zwischen den eigenen Anforderungen an das Produkt und denen der Kunden  
+zu finden. Ebenso gibt es im dritten, vierten und fünften Schritt Unterschiede, die Daily 
+Sprints und auch allgemein e Meetings zu m Sprint Planning und Review sowie in der 
+Retrospective funktionieren nicht wie in der Theorie geplant.  Beachtet man alle geplanten  
+Termine, nutzt man über 20  % der verfügbaren Arbeitszeit für Meetings und desto größer 
+das Team, desto mehr Zeit braucht man für Meetings.39 Dieser Zeitaufwand deckt sich jedoch 
+nicht mit dem Grundsatz, das Projekt so effizient wie möglich zu gestalten. Im Großen und 
+Ganzen kommt man zu dem Schluss, dass sich Theorie und Praxis deutlich unterscheiden, 
+da alle Projekt e auf verschiedene Anforderungen von Kunden und Projektteam eingehen .  
+5.Kapite l: Zukunft der agilen Softwareentwicklung  in der KI  
+Die Zukunft der agilen Softwareentwicklung steht noch in den Sternen . Durch die aktuellen 
+Statistiken und Rückmeldungen bezüglich agiler Softwareentwicklung in der KI sowie 
+beider Aspekte einzeln betrachtet, ist zusagen, dass die Aspekte rund um die Thematik noch 
+relativ in der Anfangsphase liegen und die Einbindung en in Unternehmen und die weltweite 
+Wirtschaft stetig  am Wachsen  sind.  Gerade auch durch das Zeitalter der Digitalisierung und 
+den ständigen Wandel an Trends und Produkten sind die Unternehmen zukünftig 
+gezwungen , mehr künstliche Intelligenz und Agilität in ihre n Unternehmen einzubinden , um 
+nicht auf der Strecke zu bleiben und mit der täglich wachsenden Konkurrenz mitzuhalten . 
+KI macht Unternehmen und die industrielle Produktion erst zukunftsfähig, immer mehr 
+Kunden bevorzugen Individualität und gleichzeitig hohe Qualität.40 Zudem gibt es  noch 
+genügend Einsatzmöglichkeiten , an welche sich einzelne Anforderungen anzupassen haben 
+und ebenfalls genauso viele , die man in die Thematik einbinden kann , um noch mehr 
+Möglichkeiten und Prozesse verbessert auszuschöpfen.  Alleine , dass KI in erst knapp 6  % 
+aller Unternehmen in Deutschland implementiert und  in 5 Jahren um das doppelte 
+gewachsen ist, verspricht eine große Zukunftsaussicht mit stetigem Wachstum . Dazu 
+kommt, dass dies die Zahlen von der allgemeinen Implementierung von KI sind . Die agile 
+Softwareentwicklung ist noch nicht miteinbezogen, hat sich  in einzelner Betrachtung schon 
+etwas mehr in der freien Wirtschaft etabliert und ist ebenfalls  stetig  am Wachsen .41 Verknüpft 
+man diese beiden Themengebiete, ergibt sich ein noch viel  kleiner Teil  an Unternehmen und 
+Nutzern, welche über die Mittel verfügen, eine agile Softwareentwicklung bezüglich der KI 
+zu nutzen. Zu diesem  kleine n Teil gehören  Firmen wie Google,  Microsoft  und SAP,  die viel 
+in Forschung und Entwicklung investieren und durch die verfügbaren Mittel mit 
+Fehlschlägen leichter umgehen als mittlere oder kleine Unternehmen . Es ist jedoch auch 
+zwingend notwendig , weiter an dem Anpassen der Definition und der Verknüpfung beider 
+Themen zu arbeiten . Es gibt noch viele Abweichungen und Probleme bei der Umsetzung 
+genauso gibt  es immer noch nicht genügend Mittel, um auf die ganzen Wünsche individuell 
+einzugehen. Somit ergibt sich ein noch kleiner , aber wachsender Markt mit viel Potenzial, 
+der wenn die Umsetzung erfolgreich verläuft, neue Möglichkeiten, mehr Gewinne und 
+höhere Qualität ermöglicht. Eine besondere Anpassung muss bei der agilen Dokumentation 
+erfolgen . Die richtige Umsetzung agiler Dokumentationen  findet  bisher noch fast in keinem 
+Unternehmen richtig statt. Die Implementierung agiler  Dokumentationen muss  daher  
+individueller erfolgen und erfordert mehr Mitarbeiter als beschrieben , um die zeitlichen 
+Vorgaben einzuhalten und nicht an der Qualität der Dokumentation nachzulassen.   

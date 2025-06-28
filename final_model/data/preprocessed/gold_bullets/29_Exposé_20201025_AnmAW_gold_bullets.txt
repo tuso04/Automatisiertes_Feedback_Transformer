@@ -1,0 +1,27 @@
+Motivation und Problemstellung:
+• Hängt als erster Satz in der Luft. Würde ich weiter unten integrieren
+• Aus Basis derer
+• Frage passt noch nicht ganz.Frage müsste doch eher in folgende Richtung gehenWie lässt sich mit aktuellen Technologien von Microsoft ein Multikanal-Dialog-Bot konzipieren, der als einziger Kontaktanfragepunkt auf ITIL4-Service-Management-Praktiken reagieren kann? Die Details zu den Microsoft-Technologien können Sie in Ziel der Arbeit genauer ausführen
+• „multikanal“ sollten Sie im Exposé erläutern (nicht in der Forschungsfrage sondern woanders). Es ist unklar was Sie damit meinen
+• Der Absatz zum Ziel ist noch unstrukturiert. Bitte überarbeiten, so dass erst das übergeordnete Ziel beschrieben wird und dann  immer mehr die Details
+• Zu allgemein, zu unklar
+• Zu allgemein, zu unklar
+• Grammatikalisch falsch; unklar; zu knapp
+
+Ziel der Arbeit:
+• Das ist das detaillierte Ziel.
+• Das würde ich im Ziel weglassen da es selbstverständlich ist, dass man die Funktionsweise verständlich erklären muss
+• Das ist aus meiner Sicht das übergeordnete Ziel und sollte umformuliert am Anfang des Absatzes stehen
+
+Methodisches Vorgehen:
+• Kapitelnummer ?? Kapitelname viel zu allgemein
+• Literatur bitte nicht noch untergliedern in „Einleitung“.. In der Arbeit dann einfach ein alpahbetisch sortiertes Quellenverzeichnis für alle Quellen ohne weitere Unterstruktur
+
+Gliederung:
+• Im methodischen Vorgehen bitte nicht Ihre Gliederung nach erzählen! sondern nur das wichtige und erst das wichtige. Muss also stark überarbeitet werden.Zusammenfassung und Ausblick gibt es immer, also raus Einleitung gibt es immer also rausDer Absatz soll übergeordnet Auskunft geben, wie Sie methodisch vorgehen wollen um die Forschungsfrage zu beantworten/ ihr Ziel zu erreichen und nicht wie Ihre Arbeit aufgebaut ist. Bitte also auch die Nummerierungen „erster Teil“, „zweiter Teil“ entfernen
+• Unterkapitel weglassen, wo Sie noch nicht wissen was genau rein soll
+• Zu allgemein, zu unklarDie sind doch nach ITIL ???
+• 3.2. und unterkapitel unklar
+• Zu unklar; zu allgemein
+• Im weiteren wiederholen sich die Anmerkungen. Fast alle Kapitelnamen sind zu allgemein und zu knapp…
+

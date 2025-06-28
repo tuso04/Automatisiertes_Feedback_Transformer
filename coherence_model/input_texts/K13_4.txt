@@ -1,0 +1,46 @@
+Momentan gibt es vier große KI -Verfahren , die man in der Wirtschaft einsetzt . Das am 
+meisten verbreitetste Verfahren ist das maschinelle Lernen/Beweisen . Die drei weiteren 
+Verfahren sind die Bild - oder Tonerkennung, wissensbasierte Systeme sowie das Sprach - 
+und Textverstehen.17 Maschinelles Lerne n ist ein Teilgebiet der KI, welches die meisten 
+Personen wohl direkt mit der KI in Bezug bringen . Es definiert das eigenständige Lernen 
+eines IT -Systems durch die Analyse von großen Datenmengen, die dann durch bestimmte 
+Regeln oder Ähnliche s, Zusammenhäng e erkennen , Vorhersagen treffen, eigenständig 
+Entwickeln oder Prozesse optimieren . Es gibt fünf verschieden Arten des maschinellen 
+Lernens . Das überwachte Lernen hier sind Modelle im Vorfeld definiert um Information en 
+passend zu verknüpfen. Das nicht überwachte Lernen bildet automatisiert e Modelle  anhand 
+eigenständig erkannter Muster. Das teilüberwachte Lernen  ist eine Mischung der beiden.  
+Das bestärkende Lernen, ist zu vergleichen mit dem menschlichen Lernen und basiert auf 
+dem Prinzip von Belohnung und Bestrafung, hier erkennt der Algorithmus verschiedene 
+Situationen und reagiert entsprechend. Zuletzt  kommt das aktive Lernen , dort bietet man 
+dem Algorithmus bestimmte Informationen , diese  zu verarbeiten und anschließend 
+gewünschte Ergebnisse zu erfragen . Einsatzmöglichkeiten für das maschinelle Lernen findet 
+man im Gesundheitswesen, der Industrie 4.0, Finanzdienstleistungen und der Logistik.18 Eine 
+der bekanntesten deutschen Firmen, die das maschinelle Lernen nutzt und auch stetig weiter 
+erforscht , ist SAP . Aber auch Samsung, die durch maschinelle s Lernen die Bildqualität ihrer 
+Fernseher in 8K auflösen oder personalisierte Werbung auf Websites  stellen.19 Die Bild - oder 
+Tonerkennung ist, wie das Teilgebiet schon sagt, ein System, welches anhand der 
+Mustererkennung beispielsweise bei der Bilderkennung  zuerst helle und dunkle Pixel, 
+danach Kanten und  einfache Forme n unterscheidet , bis das Bild vollständig definiert ist. 
+Diese Methode wird von Google und Microsoft zur Analyse bei der Gesichtserkennung oder 
+auch für die Fehlererkennung bei Bildanalysen genutzt. Somit findet die Bild - oder 
+Tonerkennung momentan noch vorrangig in der IT -Branche  statt.  Aber auch in der Industrie, 
+um Qualitätsprobleme beispielsweise bei Montagen zu erkennen. Dadurch entsteht ein 
+geringer Aufwand für die Mitarbeiter bei der Fehlersuche und zusätzlich verbessern  sich die 
+Effizienz und die Qualität der Fertigungsprozesse . Kunden solcher Verfahren sind z.  B. die 
+Deutsche Bahn, um Schienen zu prüfen.20 Wissensbasierte Systeme sind Infosysteme , mit 
+denen man Wissen abbildet. Größtenteils sind sie in Krankenhäusern und Arztpraxen 
+vorzufinden. In der Medizin sind sie zuständig für  Diagnose, Prognose, Therapie und 
+Überwachung bei Patienten, um Ärzte zu entlasten . Das Sprach - und Textverstehen  
+bezeichnet das Erkennen und Verstehen von Mustern in menschlichen Sprachen und Texten.  
+Anwendungsgebiete für diese Verfahren  sind z.  B. Chatbots, Sprachbots oder digitale 
+Assistenten, welche auf einzelne Semantiken agieren. Viele Firmen mit einer großen 
+Anfrage bezüglich des Kundenservices nutzen diese Methoden , um Service -Mitarbeite r zu 
+entlasten  und schneller Antworten  Kunden zu liefern . Kunden stellen häufig auch identische 
+Fragen, diese häufen sich und halten gerade in großen Firmen den Kundenservice betrieb 
+stark auf . Deshalb programmiert man Bots oder Assistenten, die diese mit vorgefertigten 
+Antworten einfach abwickeln . Somit schalten sich Mitarbeiter des Kundenservice nur bei 
+speziellen  Fragen ein . Anders ist es bei Sprachbots wie  Alexa, Siri oder Cortana . Sie 
+erkennen Aussagen und verstehen , was diese Aussage definiert, beispielsweise  das 
+Abspielen von Musik, das Einstellen eines Weckers oder die Dämmung  des Lichts.  Bots 
+oder Assistenten findet man häufig bei Firmen wie Google, Microsoft  und Zalando , Firmen 
+mit einem großen und ständig aktive n Kundenstamm.

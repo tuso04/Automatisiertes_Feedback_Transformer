@@ -1,0 +1,55 @@
+Die vorliegende Arbeit beschäftigt sich mit den Auswirkungen künstlicher Intelligenz  auf 
+Unternehmensmodelle im Energiesektor  in Deutschland . Zu diesem Zweck wird der 
+Energiesektor zunächst in seinen relevanten Besonderheiten als Rahmenbedingung für 
+unternehmerische Aktivität dargestellt, mit seinem  aktuellen Stand sowie  der politisch und 
+gesellschaftlich gewünschten Entwicklung hin zu einer nachhaltigen Energieerzeugung . 
+Anknüpfend werden einige  konkrete  Probleme in der Umsetzung dieser Systemumstellung  
+vorgestellt, an deren Lösung KI -Anwendungen eine maßgebliche Rolle  einen Anteil haben 
+werden. Auf dieser Grundlage werden verschiedene Use Cases für KI im Energiesektor  als 
+Grundlage für ein mögliches Geschäftsmodell erläutert  sowie die Frage von aktueller und 
+voraussichtlicher Datenverfügbarkeit  thematisiert. Anschließend werden konkrete KI -
+Anwendungen kategorisiert nach den betroffenen Prozessen und Abteilungen im 
+Unternehmen , sowie einzelne Unternehmen mit KI -Anwendungen als  Geschäftsmodell 
+vorgestellt. Folgend wird die Perspektive  einzelner privater Konsumenten aktuell und 
+ausblickhaft skizziert und abschließend ein kurzer Ausblick auf mögliche Chancen und 
+Schwierigkeiten in der Umsetzung von KI -Lösungen im Energiesektor angerissen.  
+Das deutsche Energiesystem als Umfeld unternehmerischer Aktivität1 
+Relevant für unternehmerische Aktivität im Energiesektor ist zunächst einmal der Umstand, 
+dass Strom in Deutschland auf einem Strommarkt – der Leipziger Strombörse – im Aggregat 
+gehandelt wird und so ein minutenaktueller Preis für Strom über Angebot und Nachfrage 
+gebildet wird.  Strom ist deswegen besonders gut für eine marktförmige Struktur geeignet, 
+da er zwar unterschiedlich produziert werden kann, aber das eigentlich erworbene Produkt 
+absolut austauschbar ist und damit ein sehr flüssiger Markt mit klarer Preisbildung 
+umgesetzt werden kann.  Um die Stromproduktion ökonomisch möglichst effizient zu 
+gestalten wird dabei im Regelfall der günstigste Strom als erstes abgenommen, sodass 
+ineffiziente Marktteilnehmer einen Anreiz zur Preissenkung bei gleichzeitiger Rentabilität 
+haben, oder langfristig aus dem Markt ausscheiden. In vielerlei Hinsicht ähnelt der 
+Strommarkt der Börse, der entscheidende Unterschied ist allerdings, das s der Strommarkt 
+mit einem physikalischen Netzwerk  korreliert, über das Strom durch die Steuerung von 
+Widerstand an den jeweils nötigen Ort geleitet wird.  In diesem Netzwerk muss dabei 
+konstant eine Zielspannung aufrechterhalten werden, was in der Praxis bedeutet, dass  die 
+physikalisch mögliche Diskrepanz zwischen Einspeisung (Angebot) und  Nutzung (Nachfrage) 
+begrenzt ist, und dieses Netzwerk  zusätzlich zu den Marktkräften auch noch konstant bereit 
+gestellt e zusätzliche Produktions- und Verbrauchskapazitäten benötigt,  mit denen auf 
+kritische Schwankungen zeitnah reagiert werden kann. Nur so kann ein Zusammenbruch der 
+Spannung und somit Versorgung der Bevölkerung möglichst störungsfrei realisiert werden. 
+Zu diesem Zweck wird auf dem Strommarkt nicht nur die bereit gestellte Energie entlohnt, 
+sondern zu einem geringeren Anteil auch die Bereitstellung dieser Ausgleichkapazitäten . 
+Auch ist deswegen ein konstantes Monitoring des Netzes an kritischen Stellen nötig,  um 
+mögliche Probleme möglichst schnell zu identifizieren und angemessen reagieren zu können. 
+Diese selbstregulierenden Elemente werden durch eine Aufgliederung der Strommarktes 
+über unterschiedliche Zeitperioden an der Leipziger Strombörse erreicht. So gib t es 
+einerseits die Möglichkeit von Warentermingeschäften mit einer Zeitspanne von bis zu 6 
+Jahren im Voraus  Strom zu kaufen oder zu verkaufen, was für beide Seiten 
+Planungssicherheiten darstellen kann. Im Spothandel wird der spezifische Tagespreis 
+ermittelt, einerseits in einem Tageszeitraum im Day -Ahead -Handel, bei dem um 12 Uhr des 
+Tages durch eingegangene Angebote der Strompreis des nächsten Tages in einem 
+ stündlichen Rhythmus  im Voraus ermittelt wird und bereits Zuschläge erteilt werden.  Im 
+Intraday Handel kann dann Strom in einem Zeithorizont von bis zu 5 Minuten zuvor 
+gehandelt werden. So wird versucht, ein ausgeglichenes Stromnetz für sämtliche 
+Marktteilnehmer lukrativ zu gestalten. Die letzte Institution mit diesem Ziel ist die 
+Regelenergie, die sowohl Speicher - als auch Einspeise -Kapazitäten darstellt, die explizit zur 
+Verfügung gestellt werden um als Puffer das Netz mit Bedarf ausgleichen zu können und dies 
+deswegen nicht am regulären Markt teilnehmen können. Dabei w erden die Kosten für 
+abgerufene Regelenergie  nach dem Verursacherprinzip in Rechnung gestellt und so ein 
+Anreiz geschaffen, diese möglichst wenig zu nutzen und so das Stromnetz nicht zu belasten.   

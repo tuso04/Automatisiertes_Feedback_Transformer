@@ -1,0 +1,19 @@
+Motivation und Problemstellung:
+• Dieses Kapitel kann ich nicht einordnen. Wie hängen diese Themen mit der voherigen Untersuchung der Ergebnisse aus 6. zusammen. Woher kommen die Erkenntnisse? Das muss in der Gliederung richtig einsortiert und benannt werden
+
+Forschungsfrage:
+
+Ziel der Arbeit:
+• Dieses Ziel geht über die Forschungsfrage hinaus. Am besten Sie passen die FF an, dass Sie etwas weiterführender ist
+• Das stimmt so nicht. In dem Kapitel wird doch eine zukünftige Implementierung untersucht und nicht nur die Vorgehensweise vorgestellt
+
+Methodisches Vorgehen:
+• Bitte auch hier Leitfaden und Transkription
+• Bitte hier besser klar machen, welche Forschungsergebnisse gemeint sind. Vielleicht ist auch ein Schritt „Ergebnisse aus Analysen erarbeiten“ zwischen 3. und 4. notwendig
+• Besser löschen
+• Bitte umformulieren. In Kapitelnamen soll kein Doppelpunkt
+
+Gliederung:
+• Besser löschen
+• Was hat das mit der Matrixorganisation zutun. Konzept klingt außerdem sehr groß. Falls ich es richtig aufgefasst habe, würde ich 7.5. streichen
+

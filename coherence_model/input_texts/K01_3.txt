@@ -1,0 +1,15 @@
+Die Digitalisierung ist ein fester Bestandteil des heutigen Lebens. Die Definition 
+des Begriffs ‚Digitalisierung‘ ist zu Teilen kontextbezogen, grundlegend kann 
+unter der ‚Digitalisierung‘ jedoch „die binäre Repräsentation von Texten, Bildern, 
+Tönen, Filmen sowie Eigenschaften physischer Objekte in Form von 
+aneinandergereihten Sequenzen aus ‚1‘ und ‚0‘ “, verstanden werden, die von 
+Rechenmaschinen „verarbeitet werden können“.1  Im deutschen Sprachgebrauch 
+wird der Begriff ‚Digitalisierung‘ synonym für die folgenden drei Begriffe 
+verwendet: ‚Digitization‘, ‚Digitalization‘ und ‚Digital Transformation‘. Dies ist zu 
+unterscheiden, da es sich um unterschiedliche Betrachtungsweisen handelt, 
+welche nachfolgend genauer erläutert werden. Digitization bezeichnet die Umwandlung analoger Informationen in digitale. Der 
+Fokus richtet sich auf die Konvertierung der analogen Daten in digitale Signale. 
+Inzwischen wird dieser Vorgang auch rückwertig genutzt, um materielle Objekte 
+zu rekonstruieren.1 Digitization ermöglicht  somit auch Maschinen oder 
+Materialien vor der eigentlichen Produktion in Simulationen zu testen. Dadurch 
+sind enorme Kosteneinsparungspotenziale möglich. 

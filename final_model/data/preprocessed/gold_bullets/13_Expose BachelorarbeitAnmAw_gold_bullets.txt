@@ -1,0 +1,17 @@
+Motivation und Problemstellung:
+• Bitte sprechende, spezifische Kapitelnamen, nicht einfach nur „Methodik“
+• Bitte die einzelnen Methoden enger verzahnen
+• Bitte sprechende, spezifische Kapitelnamen, nicht einfach nur „Ergebnisse“
+
+Forschungsfrage:
+• Das ist leider nur auf die Finanz Informatik bezogen. Bitte so formulieren, dass die Erkenntnisse auch für Wettbewerber interessant sind
+• Forschungsfrage und Zielsetzung
+
+Methodisches Vorgehen:
+• Ziele und Vorgehen nicht vermischen. Die Ziele bitte im Kapitel Forschungsfrage erarbeiten. Das Kapitel dann auch inf „Forschungsfrage & Zielsetzung“ umbennen
+• Ziele nicht  hier
+• Ziele nicht hier
+
+Gliederung:
+• Methodisches Vorgehen zusammenhängend beschreiben
+

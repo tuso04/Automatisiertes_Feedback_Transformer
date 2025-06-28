@@ -1,0 +1,16 @@
+Motivation und Problemstellung:
+• Besser: Wie lässt sich ein Multikanal-Dialog-Bot konzipieren, der als einziger Kontaktpunkt für Endnutzer auf Anfragen ausgewählter ITIL4-Service-Management-Praktiken reagieren kann?Unter Ziele der Arbeit beschreiben Sie dann dass es beispielhaft mit aktuellen Microsoft-Technologien gemacht werden soll. Es ginge prinzipiell ja auch mit Technologien anderer Anbieter. Die Dinge die Sie bis Kapitel 3 schreiben sollten ja allgemeingültig für anderer Umsetzungstechnologien ebenso gültig bzw. passend sein.
+• Das ist hier an der falschen Stelle. Ich würde 1.3 an passender Stelle als Unterkapitel von 3. Machen. Die Kapitel 1 und Kapitel 2 sollten technologieunabhängig sein. Erst am Anfang von Kapitel 3 begründen warum Microsoft eingesetzt werden soll.
+• Besser „Testverfahren für den Chatbot“
+• Das besser „Anwendungsbeispiel für den entwickelten Dialog-Bot“ nennen
+• Das muss vor 5.1., dann Fazit, dann Ausblick
+
+Ziel der Arbeit:
+• Hier einen Satz einfügen, dass der Lösungsansatz beispielhaft mit aktuellen MS-Technologien umgesetzt werden soll.
+
+Methodisches Vorgehen:
+
+Gliederung:
+• Fazit von Kapiteln bitte überall „Zwischenfazit“ nennen nur das am Ende „Fazit. Das ist sonst unüblich
+• Zwischenfazit
+

@@ -1,0 +1,49 @@
+Was ist künstliche Intelligenz? KI ist ein Begriff, der sich nicht leicht deﬁnieren lässt. Über
+die Zeit haben einige Personen versucht eine Deﬁnition für KI aufzustellen. Dazu gehören
+John McCarthy, der Encyclopedia Britannica Verlag und Elaine Rich3. Um sich der Deﬁniti-
+on von KI anzunähern, betrachten wir einzelne Deﬁnitionen anhand eines Szenarios aus dem
+Buch Grundkurs künstliche Intelligenz von Ertel, Wolfgang4.
+Stellen Sie sich das Szenario vor, sie beobachten einen leeren Raum. In diesem Raum be-
+ﬁndet sich eine Lichtquelle und mehrere kleine Roboter mit jeweils zwei Rädern und Licht-
+sensoren. Bei Einschaltung der Lichtquelle fangen sich die Roboter an zu bewegen. Einige
+Roboter bewegen sich zu der Lichtquelle hin und manche in die entgegengesetzte Richtung
+der Lichtquelle. Würden sie sagen, dass diese Roboter intelligent sind? Wenn Sie zustim-
+men, passt die Deﬁnition von John McCarthy zu ihrem Gedanken. Er deﬁniert KI ungefähr
+wie folgt:
+„Ziel der KI ist es, Maschinen zu entwickeln, die sich verhalten, als verfügten sie über Intel-
+ligenz.“5
+Was ist wenn ich ihnen nun sage von diesen Robotern sind nur die Lichtsensoren so mit den
+Motoren verbunden, dass je stärker das Licht auf die Sensoren fällt, desto stärker sich die
+Motoren bewegen. Diese Roboter sind den Braitenberg-Vehikeln von Psychologe Valentin
+Braitenberg nachempfunden6und sollen zeigen wie man mit einem einfachen Vehikel, intel-
+ligentes Verhalten nachahmen kann. Im folgenden Bild ist ein Beispiel für das Verhalten der
+Fahrzeuge:
+
+künstliche Intelligenz ist aber mehr als Sensoren die Motoren Anweisungen basierend auf
+Lichteinfall geben. Deshalb erweitern wir die Deﬁnition. Die erweiterte Deﬁnition für künst-
+liche Intelligenz lautet ungefähr wie folgt:
+„Ein System heißt intelligent, wenn es selbstständig und efﬁzient Probleme lösen kann. Der
+Grad der Intelligenz hängt vom Grad der Selbstständigkeit, dem Grad der Komplexität des
+Problems und dem Grad der Efﬁzienz des Problemlösungsverfahrens ab.“7
+Diese Deﬁnition würde die Braitenberg-Vehikel von künstlicher Intelligenz ausschließen, da
+sie kein Problem lösen können. Sie können sich nur zum Licht hinbewegen oder sich da-
+von entfernen. Hingegen würden Digitale Assistenten wie Siri oder Alexa dieser Deﬁnition
+gerecht werden. Man kann sie etwas Fragen oder eine Anweisung geben und die Digitalen
+Assistenten antworten bzw. führen eine Anweisung aus, was einen Grad von künstlicher In-
+telligenz ausmacht, da sie „[...] selbstständig und efﬁzient Probleme lösen [...]“8können.
+
+Da wir nun wissen was künstliche Intelligenz ist, betrachten wir nun die Eigenschaften des-
+sen. Damit KI nützlich sein kann, muss diese ein Problem in endlicher Zeit lösen können.
+Deshalb ist eine Eigenschaft, dass das Problem was eine KI lösen will in endlichen Schrit-
+ten verarbeitet werden muss. Oft wird KI zur Automatisierung von Prozessen genutzt, um
+menschliche Arbeit gegen efﬁzientere und weniger fehlerbehaftete Arbeit zu tauschen. Dies
+kann man z.B. im Bereich der Robotik erkennen. In dem Unternehmen Fanuc lernen Ro-
+boterarme, wie sie unbekannte Objekte greifen und bewegen können. Dies erlernen sie in-
+nerhalb von Stunden durch maschinelles Lernen10. Eine weitere Eigenschaft einer KI kann
+sein, dass sie sich auf die Umwelt anpasst und darauf reagieren kann. Humanoide Roboter
+können mittlerweile ihr Gleichgewicht so gut halten, dass selbst wenn man sie versucht aus
+dem Gleichgewicht zu bringen, es schaffen sich zu stabilisieren11. Es gibt viele mögliche Ei-
+genschaften von KI, welche aber nicht unbedingt auf jede KI zutrifft, da je nachdem für was
+die KI entwickelt wurde, sie andere Speziﬁkationen hat. Zusammenfassend lassen sich die
+erforderlichen Eigenschaften auf die vorher genannten Deﬁnitionen und die Lösung eines
+Problems in endlichen Schritten beschränken.

@@ -1,0 +1,33 @@
+Ein Großteil des erzeugten und verbrauchten Stromes in den letzten Jahre n wurde von 
+zentralisierten Kraftwerken basierend auf fossilen Energieträgern zur Verfügung gestellt. 
+Dies ist ein Modell, bei dem der Verbrauch als ein fixer Wert angenommen wird auf der 
+Angebotsseite darauf reagiert wird, klassischerweise mit dem Zubeziehungsweise 
+Abschalten von Turbinen in den thermischen Kraftwerken .  
+Zur Vermeidung von globaler Erwärmung und Einhaltung der Klimaziele von Paris wird nun 
+eine Umstellung auf erneuerbare Formen von Energiegewinnung nötig.  Dabei müssen 
+mehrere große Veränderungen  gleichzeitig in unserem Energiesystem eingeleitet und 
+erfolgreich gestaltet werden. Zunächst einmal muss möglichst viel fossiler Energiekonsum 
+auf elektrische Anwendungen umgestellt werden, beispielsweise das Transportsystem mit 
+einer Umstellung von Verbrenner - auf Elektromotoren oder die Heizungen unserer Häuser 
+von Öl - oder Gasheizungen auf Wärmepumpen. Dies wird das Stromnetz bedeutend mehr 
+belasten als zuvor. Zusätzlich müssen unsere Energiequellen auf erneuerbare Energien wie 
+Photovoltaik, Wasserkraft  und Windenergie umgestellt, und die Nutzung von zentrale n 
+fossilen Kraftwerken abgebaut und letztlich abgelöst werden.  Rein ökonomisch betrachtet 
+sind dabei die beiden Varianten von Windanlagen an Land, und Photovoltaik Anlagen die 
+günstigste Art, neuen Strom zu installieren . Dieser  Preisverfall vieler erneuerbaren Energien  
+hängt eindeutig  mit der Menge an installierter neuer Kapazität zusammen  und dieser 
+ Prozess  wird aktuell stark ausgeweitet,  wegen dieser ökonomischen Kalkulation in einem 
+positiven Feedbackloop , sodass ein weiteres Sinken der Kosten für erneuerbare Energie 
+realistisch zu sein scheint3. Zwar haben Wasserkraftwerke den großen Vorteil, Grundlast 
+leisten z u können, also so gut wie immer Strom produzieren zu können, sind aber sehr viel 
+abhängiger von Geographie und zu landschaftsinvasiv, um in Deutschland politisch 
+durchsetzbar zu sein. Dabei ist Problem, dass diese erneuerbaren Energien  nicht einfach an 
+den aktuellen Bedarf im Energienetz angepasst werden können, sondern ihrerseits starken 
+situativen Schwankungen in ihrer möglichen Leistung ausgesetzt sind. Die aufkommende 
+Lösung für dieses Problem kann nur die Speicherung von Energie  bei einer Überverfügbar keit 
+durch erhöhte Kapazität im Vergleich zur Nachfrage  und deren Einspeisung im Bedarfsfall 
+sein. Darüber hinaus sorgt die Ablösung der großen Kraftwerke in der Tendenz für eine 
+Dezentralisierung eines vormals zentral organisierten Netzes.  Alle diese großen Trends im 
+Energiebereich benötigen für eine erfolgreiche Koordination des gesamten Netzes 
+automatisierte KI -Anwendungen .  
+ 

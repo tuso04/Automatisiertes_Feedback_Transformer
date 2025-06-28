@@ -1,0 +1,22 @@
+Agile Dokumentationen sind ein immer größerer Punkt in der heutigen Unternehmenspraxis, 
+sie lösen die bisherigen Dokumentationsmodelle ab und geben neue Einblicke in Bezug auf 
+Softwareentwicklungsprojekte. Die Aufgabe von agilen Dokumentationen ist es, das  
+jeweilige Projekt in seinen einzelnen Prozessen, Funktionen und Elementen zu 
+dokumentieren und dem Nutzer, sobald das Projekt fertig ist, genauso wie den Beteiligten 
+des Projekts, während der Projektentwicklung die wichtigsten gesammelten Informationen 
+zu liefern, sodass anschließend keine Missverständnisse aufkommen und Problemstellen 
+sich schneller behandeln lassen.1 Durch  unzureichende Definition der Thematik ist es jedoch 
+schwer, genaue Vorgehensweisen bzw. Vorgehensmodelle zu erstellen, daraus resultiert, 
+dass Dokumentationen oftmals zu spät oder falsch erstellt sind. Mit der zu verfassenden 
+Arbeit wird der Frage nachgegangen werden, was der Anspruch einer agilen Dokumentation 
+in der KI ist, wie sieht diese in der Wirklichkeit aus und ist die agile Dokumentation 
+überhaupt sinnvoller als die klassischen Vorgehensmodelle? Ziel ist es, einen genauen 
+Einblick in die Welt der agilen Dokumentationen hinsichtlich der KI zu gewinnen, also einen 
+Vergleich des vergangenen Wissensstandes zu der heutigen Forschung zu bekommen, eine 
+mögliche Definition zu erstellen und die Erläuterung einiger gezielter W -Fragen, diese sind 
+zusätzlich n ach der Dringlichkeit eingeschätzt.2 Hierzu wird ein Ansatz der 
+Gegenüberstellung benutzt werden, welcher sich auf die allgemeinen agilen Methoden der 
+KI beziehen wird, um klar zu definieren, wie diese sich in der KI entwickeln, damit sich 
+Unklarheiten auflösen und somit ein neuer Einblick gewonnen wird.3 Der Ansatz wird 
+anhand zahlreicher Fallstudien, Kritiken und Dokumentationen herangezogen werden, um 
+diesen Sachverhalt klarzustellen. 

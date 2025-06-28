@@ -1,0 +1,173 @@
+filename,text_type,local_coherence,local_variance,global_coherence,thematic_coherence,topic,num_sentence_pairs
+WP3_2,W_text,0.2439,0.0220,0.6225,0.9147,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,39
+WP1_2_processed,W_text,0.2012,0.0128,0.5847,0.8889,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,6
+WP3_1_processed,W_text,0.2471,0.0156,0.3251,0.9083,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,23
+WP2_3_processed,W_text,0.1216,0.0012,0.1631,0.8522,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,9
+WP3_3,W_text,0.2388,0.0220,0.5286,0.9066,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,78
+K13_4,K_text,0.3105,0.0431,0.6344,0.8751,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,29
+WP5_1,W_text,0.1723,0.0074,0.1560,0.9360,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",16
+K08_3,K_text,0.2879,0.0405,0.6971,0.7439,KI - Neue Geschäftsmodelle für den Mittelstand,30
+WP4_1_processed,W_text,0.1914,0.0119,0.4606,0.8771,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,34
+WP1_1_processed,W_text,0.3478,0.0249,0.6355,0.8516,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,13
+WP1_1,W_text,0.3503,0.0252,0.6357,0.8520,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,13
+K01_5,K_text,0.3280,0.0325,0.5682,0.7129,Wahrnehmung von Technik und Digitalisierung,18
+WP5_2,W_text,0.1655,0.0048,0.2231,0.9311,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",11
+K01_1,K_text,0.1939,0.0002,0.1804,0.7740,Wahrnehmung von Technik und Digitalisierung,2
+K13_2,K_text,0.4234,0.0439,0.4556,0.8763,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,23
+K04_1_processed,K_text,0.5788,0.0124,0.7070,0.7427,Branchenübergreifenden KI-Lösungen und offene Plattformen,6
+K01_3,K_text,0.4425,0.0507,0.5452,0.7686,Wahrnehmung von Technik und Digitalisierung,6
+WP2_1_processed,W_text,0.2270,0.0195,0.5481,0.8443,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,26
+WP3_4_processed,W_text,0.2624,0.0217,0.5907,0.8985,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,15
+WP4_2_processed,W_text,0.2206,0.0244,0.6177,0.8851,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,71
+WP3_2_processed,W_text,0.2439,0.0220,0.6225,0.9147,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,39
+WP5_4,W_text,0.1078,0.0004,0.1219,0.9365,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",12
+WP2_4,W_text,0.1633,0.0025,0.2223,0.8696,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,5
+K01_3_processed,K_text,0.4425,0.0507,0.5452,0.7686,Wahrnehmung von Technik und Digitalisierung,6
+WP5_1_processed,W_text,0.1723,0.0074,0.1560,0.9360,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",16
+K13_3_processed,K_text,0.3864,0.0441,0.3627,0.8600,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,17
+K13_1,K_text,0.6662,0.0201,0.7547,0.9005,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,3
+WP2_3,W_text,0.1216,0.0012,0.1631,0.8522,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,9
+K04_3,K_text,0.5443,0.0330,0.5720,0.7651,Branchenübergreifenden KI-Lösungen und offene Plattformen,23
+K01_5_processed,K_text,0.3280,0.0325,0.5682,0.7129,Wahrnehmung von Technik und Digitalisierung,18
+K11_2_processed,K_text,0.3313,0.0422,0.3467,0.8720,Neue Unternehmensmodelle im Energiesektor,13
+K08_2_processed,K_text,0.3830,0.0331,0.4681,0.7398,KI - Neue Geschäftsmodelle für den Mittelstand,42
+WP4_2,W_text,0.2206,0.0244,0.6177,0.8851,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,71
+WP4_1,W_text,0.1914,0.0119,0.4606,0.8771,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,34
+K04_4_processed,K_text,0.5761,0.0392,0.6053,0.7726,Branchenübergreifenden KI-Lösungen und offene Plattformen,11
+WP3_5,W_text,0.3162,0.0316,0.8462,0.8931,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,13
+WP5_4_processed,W_text,0.1078,0.0004,0.1219,0.9365,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",12
+WP1_3,W_text,0.1256,0.0025,0.2132,0.8546,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,57
+K13_4_processed,K_text,0.3105,0.0431,0.6344,0.8751,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,29
+K08_4_processed,K_text,0.4974,0.0459,0.4737,0.7306,KI - Neue Geschäftsmodelle für den Mittelstand,35
+WP2_1,W_text,0.2270,0.0195,0.5481,0.8443,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,26
+K13_1_processed,K_text,0.6662,0.0201,0.7547,0.9005,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,3
+WP4_4,W_text,0.1769,0.0098,0.1564,0.8922,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,48
+K08_5_processed,K_text,0.4427,0.0392,0.4882,0.7152,KI - Neue Geschäftsmodelle für den Mittelstand,15
+K04_2,K_text,0.3862,0.0267,0.7036,0.7752,Branchenübergreifenden KI-Lösungen und offene Plattformen,16
+WP2_4_processed,W_text,0.1633,0.0025,0.2223,0.8696,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,5
+K08_5,K_text,0.3204,0.0453,0.3474,0.7210,KI - Neue Geschäftsmodelle für den Mittelstand,15
+WP1_3_processed,W_text,0.1252,0.0024,0.2125,0.8523,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,57
+K04_2_processed,K_text,0.3942,0.0251,0.7109,0.7754,Branchenübergreifenden KI-Lösungen und offene Plattformen,16
+K11_1_processed,K_text,0.2978,0.0297,0.5704,0.8720,Neue Unternehmensmodelle im Energiesektor,20
+K01_4,K_text,0.3748,0.0422,0.6260,0.7350,Wahrnehmung von Technik und Digitalisierung,10
+WP4_3,W_text,0.1407,0.0072,0.1248,0.8828,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,82
+WP2_2,W_text,0.1553,0.0071,0.1513,0.8557,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,15
+K11_4,K_text,0.3957,0.0436,0.3273,0.8728,Neue Unternehmensmodelle im Energiesektor,10
+K13_5,K_text,0.4654,0.0450,0.5091,0.8669,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,64
+K04_3_processed,K_text,0.5443,0.0330,0.5720,0.7651,Branchenübergreifenden KI-Lösungen und offene Plattformen,23
+K01_2,K_text,0.4812,0.0068,0.7687,0.7775,Wahrnehmung von Technik und Digitalisierung,4
+K08_1_processed,K_text,0.3457,0.0494,0.5036,0.7257,KI - Neue Geschäftsmodelle für den Mittelstand,30
+K13_2_processed,K_text,0.4234,0.0439,0.4556,0.8763,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,23
+WP1_2,W_text,0.2012,0.0128,0.5847,0.8889,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,6
+WP5_2_processed,W_text,0.1655,0.0048,0.2231,0.9311,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",11
+K13_3,K_text,0.3864,0.0441,0.3627,0.8600,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,17
+K08_1,K_text,0.2546,0.0314,0.6217,0.7194,KI - Neue Geschäftsmodelle für den Mittelstand,30
+WP4_4_processed,W_text,0.1769,0.0098,0.1564,0.8922,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,48
+WP4_3_processed,W_text,0.1407,0.0072,0.1248,0.8828,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,82
+K08_2,K_text,0.3164,0.0292,0.5785,0.7429,KI - Neue Geschäftsmodelle für den Mittelstand,42
+K13_5_processed,K_text,0.4654,0.0450,0.5091,0.8669,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,64
+WP2_2_processed,W_text,0.1553,0.0071,0.1513,0.8557,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,15
+K11_4_processed,K_text,0.3957,0.0436,0.3273,0.8728,Neue Unternehmensmodelle im Energiesektor,10
+K11_3_processed,K_text,0.2924,0.0293,0.2456,0.8658,Neue Unternehmensmodelle im Energiesektor,33
+WP5_3,W_text,0.1668,0.0077,0.1893,0.9278,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",14
+K08_3_processed,K_text,0.3731,0.0414,0.3112,0.7376,KI - Neue Geschäftsmodelle für den Mittelstand,30
+K04_1,K_text,0.5788,0.0124,0.7070,0.7427,Branchenübergreifenden KI-Lösungen und offene Plattformen,6
+K11_1,K_text,0.2956,0.0299,0.5505,0.8707,Neue Unternehmensmodelle im Energiesektor,20
+WP3_3_processed,W_text,0.2388,0.0220,0.5286,0.9066,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,78
+K01_2_processed,K_text,0.4812,0.0068,0.7687,0.7775,Wahrnehmung von Technik und Digitalisierung,4
+WP3_1,W_text,0.2471,0.0156,0.3251,0.9083,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,23
+WP3_4,W_text,0.2624,0.0217,0.5907,0.8985,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,15
+K11_2,K_text,0.3313,0.0422,0.3467,0.8720,Neue Unternehmensmodelle im Energiesektor,13
+WP3_5_processed,W_text,0.3162,0.0316,0.8462,0.8931,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,13
+K01_1_processed,K_text,0.1939,0.0002,0.1804,0.7740,Wahrnehmung von Technik und Digitalisierung,2
+K04_4,K_text,0.5716,0.0406,0.6161,0.7724,Branchenübergreifenden KI-Lösungen und offene Plattformen,11
+WP5_3_processed,W_text,0.1668,0.0077,0.1893,0.9278,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",14
+K08_4,K_text,0.3530,0.0378,0.4501,0.7346,KI - Neue Geschäftsmodelle für den Mittelstand,35
+K11_3,K_text,0.2924,0.0293,0.2456,0.8658,Neue Unternehmensmodelle im Energiesektor,33
+K01_4_processed,K_text,0.3748,0.0422,0.6260,0.7350,Wahrnehmung von Technik und Digitalisierung,10
+mixed_text_1,mixed,0.1343,0.0055,0.1237,0.7385,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_2,mixed,0.1777,0.0203,0.3578,0.9329,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_3,mixed,0.1437,0.0117,0.0936,0.9059,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_4,mixed,0.1617,0.0217,0.1181,0.8595,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_5,mixed,0.1938,0.0205,0.1830,0.7300,Wahrnehmung von Technik und Digitalisierung,24
+mixed_text_6,mixed,0.1233,0.0013,0.1641,0.7942,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_7,mixed,0.2160,0.0309,0.1422,0.7642,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_8,mixed,0.1568,0.0160,0.1250,0.9078,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_9,mixed,0.1738,0.0127,0.1091,0.7715,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_10,mixed,0.1884,0.0199,0.2801,0.9329,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_11,mixed,0.1472,0.0159,0.1365,0.8358,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_12,mixed,0.1846,0.0206,0.0999,0.9369,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_13,mixed,0.1676,0.0144,0.1043,0.7676,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_14,mixed,0.1676,0.0108,0.1287,0.9257,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_15,mixed,0.2060,0.0291,0.1180,0.8696,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_16,mixed,0.1716,0.0249,0.0969,0.8665,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_17,mixed,0.1544,0.0039,0.1171,0.8891,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_18,mixed,0.1203,0.0020,0.1110,0.9378,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_19,mixed,0.1373,0.0032,0.1333,0.7864,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_20,mixed,0.1524,0.0186,0.1174,0.8929,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_21,mixed,0.1900,0.0165,0.2963,0.8529,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,24
+mixed_text_22,mixed,0.1917,0.0130,0.1071,0.7625,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_23,mixed,0.1412,0.0064,0.0956,0.8684,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,24
+mixed_text_24,mixed,0.2023,0.0247,0.1055,0.8838,Agile Dokumentation in der KI: Anspruch und Wirklichkeit,24
+mixed_text_25,mixed,0.1725,0.0145,0.0971,0.9062,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_26,mixed,0.1485,0.0126,0.0994,0.7411,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_27,mixed,0.1413,0.0047,0.1207,0.9330,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_28,mixed,0.1440,0.0106,0.1237,0.8805,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_29,mixed,0.1611,0.0256,0.1768,0.8902,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_30,mixed,0.1228,0.0017,0.1038,0.9366,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_31,mixed,0.1119,0.0011,0.1032,0.8991,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,23
+mixed_text_32,mixed,0.1257,0.0038,0.1319,0.8405,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_33,mixed,0.1793,0.0134,0.1640,0.7241,Wahrnehmung von Technik und Digitalisierung,24
+mixed_text_34,mixed,0.1745,0.0092,0.1126,0.8952,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_35,mixed,0.1753,0.0157,0.0973,0.7178,Wahrnehmung von Technik und Digitalisierung,24
+mixed_text_36,mixed,0.2421,0.0442,0.1239,0.9350,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_37,mixed,0.1478,0.0137,0.1084,0.8628,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_38,mixed,0.1382,0.0038,0.0932,0.7699,Branchenübergreifenden KI-Lösungen und offene Plattformen,23
+mixed_text_39,mixed,0.1631,0.0119,0.1091,0.8899,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_40,mixed,0.1517,0.0083,0.1203,0.7374,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_41,mixed,0.1871,0.0186,0.1092,0.8942,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_42,mixed,0.1536,0.0080,0.1012,0.7184,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_43,mixed,0.2073,0.0271,0.1154,0.8666,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_44,mixed,0.1935,0.0268,0.0957,0.7395,Wahrnehmung von Technik und Digitalisierung,24
+mixed_text_45,mixed,0.2265,0.0453,0.0970,0.8415,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_46,mixed,0.1714,0.0238,0.1153,0.9375,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_47,mixed,0.2303,0.0383,0.1181,0.7754,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_48,mixed,0.1479,0.0092,0.0992,0.8275,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_49,mixed,0.1296,0.0088,0.0970,0.8501,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,24
+mixed_text_50,mixed,0.1286,0.0054,0.0980,0.8350,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,23
+mixed_text_51,mixed,0.1440,0.0099,0.1372,0.8521,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_52,mixed,0.1293,0.0033,0.1217,0.9411,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_53,mixed,0.1946,0.0260,0.1169,0.7402,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_54,mixed,0.2228,0.0357,0.1343,0.8622,Neue Unternehmensmodelle im Energiesektor,23
+mixed_text_55,mixed,0.2257,0.0244,0.1285,0.8553,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_56,mixed,0.1366,0.0037,0.1070,0.8269,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_57,mixed,0.2250,0.0250,0.1188,0.7368,Wahrnehmung von Technik und Digitalisierung,24
+mixed_text_58,mixed,0.2030,0.0294,0.1111,0.8678,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_59,mixed,0.1126,0.0008,0.0994,0.8935,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_60,mixed,0.2039,0.0213,0.1028,0.9366,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_61,mixed,0.1380,0.0086,0.0947,0.7698,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_62,mixed,0.1861,0.0211,0.1055,0.8421,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,23
+mixed_text_63,mixed,0.1647,0.0099,0.1573,0.7174,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_64,mixed,0.1737,0.0176,0.1214,0.9316,"Textur, Transparenz und Täuschung: Blaue Papiere in Pastellen und Schriftquellen des 18. Jahrhunderts",24
+mixed_text_65,mixed,0.1609,0.0054,0.0993,0.7401,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_66,mixed,0.1502,0.0064,0.1609,0.9027,Funktionelle Kniestabilität im Handball: Ein unverzichtbares Kriterium für sicheren Sport,24
+mixed_text_67,mixed,0.2028,0.0318,0.2358,0.7907,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_68,mixed,0.2018,0.0265,0.1540,0.8311,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_69,mixed,0.1575,0.0079,0.3377,0.8640,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_70,mixed,0.2145,0.0286,0.1481,0.7839,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_71,mixed,0.1634,0.0130,0.0963,0.7268,Wahrnehmung von Technik und Digitalisierung,24
+mixed_text_72,mixed,0.1369,0.0048,0.1015,0.8591,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,24
+mixed_text_73,mixed,0.1594,0.0098,0.1091,0.8512,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,24
+mixed_text_74,mixed,0.1831,0.0201,0.1537,0.8604,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_75,mixed,0.1700,0.0106,0.1105,0.8561,Aluminiumhydroxychlorid-Flockungsmittel aus dem Kupferrecycling aus Abfällen der Leiterplattenproduktion,24
+mixed_text_76,mixed,0.1962,0.0229,0.1070,0.8725,Neue Unternehmensmodelle im Energiesektor,23
+mixed_text_77,mixed,0.2213,0.0333,0.1231,0.8688,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_78,mixed,0.1983,0.0296,0.1243,0.8920,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_79,mixed,0.1678,0.0128,0.1171,0.7740,Branchenübergreifenden KI-Lösungen und offene Plattformen,24
+mixed_text_80,mixed,0.1796,0.0224,0.1649,0.8382,Corona bei Kindern: Die Co-Ki Studie - Relevanz von SARS-CoV-2 in der ambulanten pädiatrischen Versorgung in Deutschland,24
+mixed_text_81,mixed,0.2379,0.0427,0.1945,0.8802,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_82,mixed,0.1841,0.0247,0.1206,0.7235,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_83,mixed,0.1620,0.0127,0.1177,0.7408,KI - Neue Geschäftsmodelle für den Mittelstand,24
+mixed_text_84,mixed,0.1615,0.0083,0.1253,0.8683,Neue Unternehmensmodelle im Energiesektor,24
+mixed_text_85,mixed,0.1699,0.0111,0.1360,0.8815,Umkämpfte Globalisierung: Amerikanische und europäische Reaktionen auf Chinas Aufstieg im Hochtechnologiebereich,24
+mixed_text_86,mixed,0.1692,0.0155,0.1087,0.7506,KI - Neue Geschäftsmodelle für den Mittelstand,24
