@@ -1,0 +1,20 @@
+{
+  "n_variants": 4,
+  "n_exposes": 75,
+  "variant_names": [
+    "full_model",
+    "no_textfeatures",
+    "minimal",
+    "no_structure"
+  ],
+  "evaluation_timestamp": "2025-06-21T22:49:09.081812",
+  "rsa_mean_pearson_correlation": 0.6158799529075623,
+  "rsa_std_pearson_correlation": 0.4958968460559845,
+  "rsa_mean_spearman_correlation": 0.6179003980950741,
+  "rsa_std_spearman_correlation": 0.49328846564825307,
+  "rsa_n_comparisons": 10,
+  "silhouette_mean_score": -0.01813957840204239,
+  "silhouette_std_score": 0.00034118560142815113,
+  "silhouette_best_variant": "no_textfeatures",
+  "silhouette_best_score": -0.017794402316212654
+}

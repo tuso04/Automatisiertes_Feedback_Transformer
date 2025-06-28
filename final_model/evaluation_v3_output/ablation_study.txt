@@ -1,0 +1,42 @@
+================================================================================
+ABLATIONSSTUDIE: MULTI-VARIANTEN-FEEDBACK-EVALUATION
+================================================================================
+
+Anzahl Varianten: 4
+Evaluierte Varianten: full_model, minimal, no_structure, no_textfeatures
+Datum: N/A
+
+1. AGGREGIERTE STATISTIKEN PRO VARIANTE
+--------------------------------------------------
+
+1. no_structure
+   Anzahl Exposés: 75
+   Precision: 0.6171 ± 0.0491 (Min: 0.4717, Max: 0.6766)
+   Recall:    0.6121 ± 0.0287 (Min: 0.4785, Max: 0.6549)
+   F1-Score:  0.6135 ± 0.0329 (Min: 0.5223, Max: 0.6513)
+
+2. full_model
+   Anzahl Exposés: 75
+   Precision: 0.6182 ± 0.0302 (Min: 0.5156, Max: 0.6650)
+   Recall:    0.5967 ± 0.0171 (Min: 0.5578, Max: 0.6325)
+   F1-Score:  0.6068 ± 0.0178 (Min: 0.5513, Max: 0.6373)
+
+3. minimal
+   Anzahl Exposés: 75
+   Precision: 0.5549 ± 0.0650 (Min: 0.3974, Max: 0.6773)
+   Recall:    0.5671 ± 0.0421 (Min: 0.4436, Max: 0.6467)
+   F1-Score:  0.5597 ± 0.0490 (Min: 0.4310, Max: 0.6319)
+
+4. no_textfeatures
+   Anzahl Exposés: 75
+   Precision: 0.5611 ± 0.0381 (Min: 0.4709, Max: 0.6391)
+   Recall:    0.5571 ± 0.0303 (Min: 0.4741, Max: 0.6263)
+   F1-Score:  0.5587 ± 0.0307 (Min: 0.4725, Max: 0.6143)
+
+
+4. EMPFEHLUNGEN
+--------------------------------------------------
+• Beste Variante: no_structure (F1: 0.6135)
+• Zweitbeste Variante: full_model (F1: 0.6068)
+• Performance-Gap: 0.0068 F1-Punkte
+• Stabilität beste Variante: stabil (σ = 0.0329)

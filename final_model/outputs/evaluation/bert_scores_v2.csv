@@ -1,0 +1,76 @@
+expose_id,precision,recall,f1
+35_Expose_Thesis_AnmAW,0.5430,0.5583,0.5506
+44_Expose_AW,0.5670,0.6228,0.5936
+4_Bachelorarbeit_Expose_Anm2AW,0.6290,0.5962,0.6121
+39_Expose-Abgabe1_anmAW,0.5232,0.5579,0.5400
+32_Expose_AnmAW,0.5728,0.5745,0.5736
+49_Kurzexposé_AnmerkungenAW,0.5395,0.5960,0.5663
+21_Exposé Thesis_AnmAW,0.5657,0.5535,0.5595
+13_Expose Bachelorarbeit_Version_2_AnmAW,0.5639,0.5726,0.5682
+51_Exposé-Bachelorthesis_AW,0.5736,0.6102,0.5913
+10_Expose 2_AnmerkungenAW,0.6267,0.6148,0.6207
+46_Expose 1. Entwurf_AW,0.6408,0.6114,0.6257
+6_BA_AnmAW,0.6035,0.6122,0.6078
+55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_AnmAW,0.6087,0.6307,0.6195
+36_Exposé_Thesis_v3_AnmAW,0.5694,0.5860,0.5776
+36_Exposé_Thesis_v3-1_AnmAW,0.5406,0.5680,0.5540
+15_Exposé Bachelorarbeit_Version1_AnmAW,0.6464,0.6003,0.6225
+22_Exposé_AnmAW - Kopie,0.6353,0.6126,0.6238
+2_2023_07_23_Kurzexpose_Bachelorarbeit_AW,0.4762,0.5687,0.5184
+42_Exposeentwurf Bachelorarbeit_Stand1703_AnmAW,0.5816,0.5500,0.5654
+4_Bachelorarbeit_Expose_Anm3AW,0.5642,0.5803,0.5721
+45_Expose-Vorschlag_kommentiert,0.4881,0.5555,0.5196
+40_ExposeBachelorarbeitÜberarbeiteteteVersion_AnmerkungenAW,0.5051,0.5580,0.5302
+17_Exposé Bachelorthesis V02- AnmAW,0.5930,0.6048,0.5989
+23_Expose_BA_v1_AnmAW,0.6302,0.5871,0.6079
+28_Exposé_AnmAW,0.5862,0.5755,0.5808
+55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v3_AnmAW,0.5770,0.6034,0.5899
+23_TK_Expose_BA_v2_AnmAW,0.5753,0.5562,0.5656
+33_Exposé_v1 _AnmAW,0.5738,0.5550,0.5643
+54_Thesis_Expose_Entwurf_V4_AnmAW,0.6182,0.6095,0.6139
+37_Exposé_v2_AW,0.6271,0.6244,0.6257
+14_Exposé Bachelorarbeit_Stand070120_AnmAW,0.5351,0.5390,0.5371
+34_Exposé_V4_AnmAW,0.5404,0.5528,0.5465
+50_Kurzexpose_Neu_AnmAW,0.6065,0.6409,0.6232
+29_Expose_202011_05_AnmAW,0.6119,0.5951,0.6034
+32_Expose_V2_AnmAW,0.6630,0.6187,0.6401
+22_Exposé_AnmAW,0.6353,0.6126,0.6238
+19_Exposé Bachelorthesis_Version2_anmAW,0.5041,0.6190,0.5557
+38_Exposé2-AnmAW,0.5652,0.5994,0.5818
+12_Exposé Bachelorarbeit_AnmAW,0.6905,0.6387,0.6636
+29_Exposé_20201025_AnmAW,0.6341,0.5952,0.6141
+3_Bachelorarbeit Exposé_Version2_AnmAW_,0.5427,0.6243,0.5806
+27_Exposé_Bachelorthesis_AnmAW,0.6127,0.6003,0.6064
+30_Exposé_2.Version_AnmAW,0.6223,0.5968,0.6093
+35_Expose_AW,0.5852,0.5993,0.5921
+28_Exposé_v2_AnmerkungenAW,0.6168,0.5832,0.5995
+34_Exposé_Sommersemester2020_V1_AnmAW,0.5574,0.6162,0.5853
+1_2.Exposé_Bachelorthesis_AnmAW,0.5598,0.5511,0.5554
+24_Exposé_Bachelorarbeit_bearbeitet_AnmAW,0.5865,0.5861,0.5863
+17_Exposé Bachelorthesis V03 - AnmAW,0.5577,0.5941,0.5753
+21_Exposé Thesis_alt_AnmAW,0.5896,0.5850,0.5873
+4_Bachelorarbeit_Expose_anmAW,0.6208,0.6245,0.6227
+25_Exposé_Bachelorarbeit_AnmAW,0.5600,0.5376,0.5486
+5_Bachelor-ThemenvorschlagAnmAW_24April,0.6002,0.6151,0.6076
+9_Exposé 2 Bachelorarbeit_anmAW,0.5741,0.5702,0.5722
+7_Exposé - Bachelor_AnmAW,0.5387,0.6063,0.5705
+40_ExposeBachelorarbeit_v1_AnmerkungenAW,0.4628,0.5701,0.5109
+31_Expose_AnmAW,0.4854,0.6098,0.5405
+53_Thema Ausarbeitung_ Bachelorarbeit_AnmAW,0.5384,0.6075,0.5708
+39_Expose-Abgabe2-anmAW,0.5681,0.5705,0.5693
+54_Thesis_Expose_Entwurf_AnmerkungenAW,0.6238,0.6060,0.6148
+55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v2_AnmAW,0.6207,0.6220,0.6214
+43_Expose_NEU_AnmAW,0.5367,0.6053,0.5689
+30_Exposé_AnmAW,0.6125,0.6060,0.6092
+38_Exposé1_anmAW,0.6085,0.5954,0.6019
+9_Exposé 3  Bachelorarbeit_AnmAW,0.5442,0.5660,0.5549
+35_Expose_Thesis2-AnmAW,0.5374,0.5813,0.5585
+20_TK_Exposé BachelorthesisV03_AnmAW,0.5732,0.6040,0.5882
+48_Kurzexpose_Bachelorthesis_ Vorschlag_2_AnmAW,0.5355,0.6227,0.5758
+19_Exposé Bachelorthesis_Version3_anmAW,0.5869,0.5872,0.5871
+13_Expose BachelorarbeitAnmAw,0.5709,0.5931,0.5818
+4_Bachelorarbeit_Expose_AnmAW_verbessert ,0.5916,0.6055,0.5985
+14_Exposé Bachelorarbeit_Stand210120_AnmAW,0.5282,0.5999,0.5618
+26_Exposé_Bachelorarbeit_anmAW,0.6523,0.6060,0.6283
+8_Exposé _Bachelorarbeit_AnmAW,0.5982,0.5689,0.5832
+41_Exposee_v2_AnmerkungenAW,0.5757,0.5736,0.5747

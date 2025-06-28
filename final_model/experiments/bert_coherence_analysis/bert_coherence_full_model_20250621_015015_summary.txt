@@ -1,0 +1,68 @@
+=== BERT-KOHÄRENZ ANALYSE ZUSAMMENFASSUNG ===
+
+Variante: full_model
+Zeitstempel: 2025-06-21 01:50:15
+
+--- DATENÜBERSICHT ---
+Anzahl Exposés: 75
+Anzahl Kapitel: 375
+Anzahl Sätze: 3860
+
+--- KOHÄRENZ-SCORES GESAMT ---
+count: 4235.0000
+mean: 0.4133
+std: 0.2229
+min: 0.0925
+25%: 0.2163
+50%: 0.3963
+75%: 0.5996
+max: 0.8788
+
+--- KOHÄRENZ NACH STRUKTUREBENE ---
+                 count    mean     std     min     max
+structure_level                                       
+chapter            375  0.4991  0.1963  0.0925  0.8711
+sentence          3860  0.4050  0.2235  0.0925  0.8788
+
+--- KOHÄRENZ-KATEGORIEN VERTEILUNG ---
+
+CHAPTER:
+  hoch: 153 (40.8%)
+  mittel: 133 (35.5%)
+  niedrig: 46 (12.3%)
+  sehr_hoch: 43 (11.5%)
+
+SENTENCE:
+  niedrig: 1244 (32.2%)
+  mittel: 1239 (32.1%)
+  hoch: 1071 (27.7%)
+  sehr_hoch: 306 (7.9%)
+
+--- TOP 5 EXPOSÉS (HÖCHSTE DURCHSCHNITTLICHE KOHÄRENZ) ---
+31_Expose_AnmAW: 0.6170
+50_Kurzexpose_Neu_AnmAW: 0.5878
+28_Exposé_AnmAW: 0.5696
+28_Exposé_v2_AnmerkungenAW: 0.5429
+24_Exposé_Bachelorarbeit_bearbeitet_AnmAW: 0.5335
+
+--- BOTTOM 5 EXPOSÉS (NIEDRIGSTE DURCHSCHNITTLICHE KOHÄRENZ) ---
+36_Exposé_Thesis_v3_AnmAW: 0.2086
+36_Exposé_Thesis_v3-1_AnmAW: 0.2650
+6_BA_AnmAW: 0.2672
+17_Exposé Bachelorthesis V03 - AnmAW: 0.2702
+7_Exposé - Bachelor_AnmAW: 0.2901
+
+--- KOHÄRENZ NACH SATZ-POSITION ---
+                   count    mean     std
+position_category                       
+anfang               956  0.4055  0.2183
+ende                 987  0.4042  0.2249
+erster_satz          375  0.3208  0.2205
+mitte               1542  0.4256  0.2220
+
+--- EINFLUSS VORHERIGER SATZ ---
+Kohärenz mit/ohne vorherigen Satz:
+                       count    mean     std
+has_previous_sentence                       
+False                    375  0.3208  0.2205
+True                    3485  0.4141  0.2220

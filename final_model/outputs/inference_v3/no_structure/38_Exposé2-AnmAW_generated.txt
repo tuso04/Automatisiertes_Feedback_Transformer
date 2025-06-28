@@ -1,0 +1,14 @@
+. . .
+.
+Das Problem ist, dass das Problem in der Regel nicht in den Rahmen der Definitions- und Definitionsphase, sondern nur in die Definition der Regeln der Beschreibung der Spezifikation des Themas, aber in das Thema, und dass es in einem Satz von Regeln zu lösen ist
+• Das Problem, das heißt, wenn Sie die Beschreibung des Problems, dann ist es, wie es ist in ein Thema zu machen, ist nicht klar definiert.•
+1. Das Thema ist:
+2. Es ist die Frage, ob es sich lohnt,
+3. Ist es sinnvoll, die Struktur der Struktur zu beschreiben, um zu definieren, was es zu lernen?
+4. Wenn ja, welche Art von Struktur ist notwendig, damit es möglich, zu entwickeln und zu verstehen, in welcher Form es sein sollte? (z. B.)
+5. Wie kann man die Strukturen der Strukturen beschreiben und wie man sie beschreiben kann?.4
+6. Was ist zu tun, mit dem Problem zu arbeiten? 6.1
+7. Welche Methoden sind zu implementieren? 7.2
+8. Warum sollte man sich mit den Strukturen beschäftigen? 8.3
+9. Kann man eine Struktur beschreiben? 9.5
+10. Gibt es eine Methode,

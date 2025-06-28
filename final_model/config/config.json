@@ -1,0 +1,45 @@
+{
+  "paths": {
+    "raw_exposes_dir": "data/exposes",
+    "preprocessed_jsonl": "data/preprocessed/exposes.jsonl",
+    "topics_jsonl": "data/expose_topics.jsonl",
+    "gold_bullet_dir": "data/preprocessed/gold_bullets",
+    "encoder_output_dir": "data/ablation_output",
+    "score_matrix_dir": "data/encoder_v2_output",
+    "adapter_checkpoint_dir": "models/adapter_v3",
+    "inference_output_dir": "outputs/inference_v2",
+    "evaluation_output": "outputs/evaluation/bert_scores_v2.csv"
+  },
+  "models": {
+    "sbert_sentence": "Nico97/SBERT-case-german-tng",
+    "sbert_long": "Nico97/SBERT-case-german-tng",
+    "coherence": "samirmsallem/gbert-large-coherence_evaluation",
+    "zeroshot": "svalabs/gbert-large-zeroshot-nli",
+    "gpt2_model": "dbmdz/german-gpt2"
+  },
+  "hyperparameters": {
+    "adapter_lr": 0.0005,
+    "adapter_batch_size": 4,
+    "adapter_epochs": 100,
+    "adapter_early_stopping_patience": 10,
+    "adapter_dropout": 0.1,
+    "adapter_weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "prefix_hidden_dim": 768,
+    "max_prompt_tokens": 200,
+    "max_bullet_tokens": 256,
+    "max_sentences_per_chapter": 50,
+    "num_chapters": 8,
+    "sbert_batch_size": 16,
+    "zero_shot_batch_size": 8,
+    "coherence_batch_size": 8,
+    "adapter_input_dim": 768
+  },
+  "deduplication": {
+    "sbert_threshold": 0.95
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "logs/application.log"
+  }
+}

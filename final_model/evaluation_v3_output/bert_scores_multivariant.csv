@@ -1,0 +1,301 @@
+variant,expose_id,precision,recall,f1
+full_model,10_Expose 2_AnmerkungenAW,0.6344,0.5863,0.6094
+full_model,12_Exposé Bachelorarbeit_AnmAW,0.6326,0.5874,0.6092
+full_model,13_Expose BachelorarbeitAnmAw,0.5944,0.5799,0.5870
+full_model,13_Expose Bachelorarbeit_Version_2_AnmAW,0.6173,0.5767,0.5963
+full_model,14_Exposé Bachelorarbeit_Stand070120_AnmAW,0.6443,0.6132,0.6283
+full_model,14_Exposé Bachelorarbeit_Stand210120_AnmAW,0.5443,0.5801,0.5617
+full_model,15_Exposé Bachelorarbeit_Version1_AnmAW,0.6221,0.5604,0.5896
+full_model,17_Exposé Bachelorthesis V02- AnmAW,0.6398,0.6016,0.6201
+full_model,17_Exposé Bachelorthesis V03 - AnmAW,0.6084,0.5869,0.5974
+full_model,19_Exposé Bachelorthesis_Version2_anmAW,0.5787,0.6083,0.5931
+full_model,19_Exposé Bachelorthesis_Version3_anmAW,0.6033,0.5789,0.5909
+full_model,1_2.Exposé_Bachelorthesis_AnmAW,0.6397,0.6024,0.6205
+full_model,20_TK_Exposé BachelorthesisV03_AnmAW,0.6248,0.6031,0.6137
+full_model,21_Exposé Thesis_AnmAW,0.6306,0.5990,0.6144
+full_model,21_Exposé Thesis_alt_AnmAW,0.6050,0.5758,0.5901
+full_model,22_Exposé_AnmAW,0.6106,0.5918,0.6010
+full_model,22_Exposé_AnmAW - Kopie,0.6309,0.6041,0.6172
+full_model,23_Expose_BA_v1_AnmAW,0.6170,0.5659,0.5903
+full_model,23_TK_Expose_BA_v2_AnmAW,0.6367,0.5813,0.6077
+full_model,24_Exposé_Bachelorarbeit_bearbeitet_AnmAW,0.6326,0.5953,0.6134
+full_model,25_Exposé_Bachelorarbeit_AnmAW,0.6650,0.6103,0.6365
+full_model,26_Exposé_Bachelorarbeit_anmAW,0.6435,0.5797,0.6099
+full_model,27_Exposé_Bachelorthesis_AnmAW,0.6165,0.5723,0.5936
+full_model,28_Exposé_AnmAW,0.6526,0.5972,0.6237
+full_model,28_Exposé_v2_AnmerkungenAW,0.6427,0.5930,0.6168
+full_model,29_Expose_202011_05_AnmAW,0.6215,0.5810,0.6006
+full_model,29_Exposé_20201025_AnmAW,0.6326,0.5597,0.5939
+full_model,2_2023_07_23_Kurzexpose_Bachelorarbeit_AW,0.5533,0.6021,0.5767
+full_model,30_Exposé_2.Version_AnmAW,0.6326,0.5751,0.6025
+full_model,30_Exposé_AnmAW,0.6137,0.5578,0.5845
+full_model,31_Expose_AnmAW,0.5848,0.6325,0.6077
+full_model,32_Expose_AnmAW,0.6428,0.6018,0.6216
+full_model,32_Expose_V2_AnmAW,0.6508,0.5937,0.6209
+full_model,33_Exposé_v1 _AnmAW,0.6326,0.5795,0.6049
+full_model,34_Exposé_Sommersemester2020_V1_AnmAW,0.5813,0.6173,0.5988
+full_model,34_Exposé_V4_AnmAW,0.6515,0.6194,0.6350
+full_model,35_Expose_AW,0.6586,0.6158,0.6365
+full_model,35_Expose_Thesis2-AnmAW,0.5467,0.5746,0.5603
+full_model,35_Expose_Thesis_AnmAW,0.6214,0.5739,0.5967
+full_model,36_Exposé_Thesis_v3-1_AnmAW,0.6217,0.6192,0.6204
+full_model,36_Exposé_Thesis_v3_AnmAW,0.6206,0.5991,0.6096
+full_model,37_Exposé_v2_AW,0.6512,0.6239,0.6373
+full_model,38_Exposé1_anmAW,0.6317,0.5872,0.6087
+full_model,38_Exposé2-AnmAW,0.6340,0.6065,0.6199
+full_model,39_Expose-Abgabe1_anmAW,0.6242,0.6192,0.6217
+full_model,39_Expose-Abgabe2-anmAW,0.6526,0.5935,0.6217
+full_model,3_Bachelorarbeit Exposé_Version2_AnmAW_,0.5537,0.6063,0.5788
+full_model,40_ExposeBachelorarbeit_v1_AnmerkungenAW,0.5156,0.5923,0.5513
+full_model,40_ExposeBachelorarbeitÜberarbeiteteteVersion_AnmerkungenAW,0.5864,0.5892,0.5878
+full_model,41_Exposee_v2_AnmerkungenAW,0.6269,0.5960,0.6111
+full_model,42_Exposeentwurf Bachelorarbeit_Stand1703_AnmAW,0.6266,0.5758,0.6001
+full_model,43_Expose_NEU_AnmAW,0.5480,0.6117,0.5781
+full_model,44_Expose_AW,0.6121,0.6185,0.6153
+full_model,45_Expose-Vorschlag_kommentiert,0.5886,0.6059,0.5971
+full_model,46_Expose 1. Entwurf_AW,0.6479,0.5942,0.6199
+full_model,48_Kurzexpose_Bachelorthesis_ Vorschlag_2_AnmAW,0.6088,0.6193,0.6140
+full_model,49_Kurzexposé_AnmerkungenAW,0.5938,0.6081,0.6008
+full_model,4_Bachelorarbeit_Expose_Anm2AW,0.6479,0.6078,0.6272
+full_model,4_Bachelorarbeit_Expose_Anm3AW,0.6377,0.6014,0.6190
+full_model,4_Bachelorarbeit_Expose_AnmAW_verbessert ,0.5681,0.5750,0.5715
+full_model,4_Bachelorarbeit_Expose_anmAW,0.6332,0.6039,0.6182
+full_model,50_Kurzexpose_Neu_AnmAW,0.5994,0.6206,0.6098
+full_model,51_Exposé-Bachelorthesis_AW,0.5842,0.6096,0.5966
+full_model,53_Thema Ausarbeitung_ Bachelorarbeit_AnmAW,0.6191,0.6268,0.6229
+full_model,54_Thesis_Expose_Entwurf_AnmerkungenAW,0.6258,0.5992,0.6122
+full_model,54_Thesis_Expose_Entwurf_V4_AnmAW,0.6402,0.6017,0.6203
+full_model,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_AnmAW,0.6425,0.6063,0.6239
+full_model,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v2_AnmAW,0.6157,0.6056,0.6106
+full_model,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v3_AnmAW,0.6093,0.6114,0.6103
+full_model,5_Bachelor-ThemenvorschlagAnmAW_24April,0.6361,0.5965,0.6157
+full_model,6_BA_AnmAW,0.6324,0.6108,0.6214
+full_model,7_Exposé - Bachelor_AnmAW,0.6053,0.6248,0.6149
+full_model,8_Exposé _Bachelorarbeit_AnmAW,0.6569,0.6037,0.6292
+full_model,9_Exposé 2 Bachelorarbeit_anmAW,0.6411,0.5917,0.6154
+full_model,9_Exposé 3  Bachelorarbeit_AnmAW,0.6321,0.5755,0.6025
+minimal,10_Expose 2_AnmerkungenAW,0.5283,0.5500,0.5390
+minimal,12_Exposé Bachelorarbeit_AnmAW,0.4679,0.4436,0.4554
+minimal,13_Expose BachelorarbeitAnmAw,0.5940,0.6071,0.6004
+minimal,13_Expose Bachelorarbeit_Version_2_AnmAW,0.6197,0.6135,0.6166
+minimal,14_Exposé Bachelorarbeit_Stand070120_AnmAW,0.5883,0.5723,0.5802
+minimal,14_Exposé Bachelorarbeit_Stand210120_AnmAW,0.5322,0.6025,0.5652
+minimal,15_Exposé Bachelorarbeit_Version1_AnmAW,0.6001,0.5705,0.5849
+minimal,17_Exposé Bachelorthesis V02- AnmAW,0.5849,0.5804,0.5826
+minimal,17_Exposé Bachelorthesis V03 - AnmAW,0.5828,0.5885,0.5856
+minimal,19_Exposé Bachelorthesis_Version2_anmAW,0.4549,0.5384,0.4931
+minimal,19_Exposé Bachelorthesis_Version3_anmAW,0.4876,0.5000,0.4937
+minimal,1_2.Exposé_Bachelorthesis_AnmAW,0.6129,0.6156,0.6142
+minimal,20_TK_Exposé BachelorthesisV03_AnmAW,0.5972,0.5813,0.5891
+minimal,21_Exposé Thesis_AnmAW,0.4878,0.5078,0.4976
+minimal,21_Exposé Thesis_alt_AnmAW,0.5233,0.5177,0.5205
+minimal,22_Exposé_AnmAW,0.6475,0.6052,0.6256
+minimal,22_Exposé_AnmAW - Kopie,0.6475,0.6052,0.6256
+minimal,23_Expose_BA_v1_AnmAW,0.5510,0.5546,0.5528
+minimal,23_TK_Expose_BA_v2_AnmAW,0.5814,0.5869,0.5842
+minimal,24_Exposé_Bachelorarbeit_bearbeitet_AnmAW,0.6163,0.6097,0.6130
+minimal,25_Exposé_Bachelorarbeit_AnmAW,0.5177,0.5369,0.5271
+minimal,26_Exposé_Bachelorarbeit_anmAW,0.5910,0.5676,0.5791
+minimal,27_Exposé_Bachelorthesis_AnmAW,0.6306,0.5853,0.6071
+minimal,28_Exposé_AnmAW,0.4880,0.5222,0.5045
+minimal,28_Exposé_v2_AnmerkungenAW,0.5979,0.5727,0.5850
+minimal,29_Expose_202011_05_AnmAW,0.6297,0.5951,0.6119
+minimal,29_Exposé_20201025_AnmAW,0.5812,0.5642,0.5726
+minimal,2_2023_07_23_Kurzexpose_Bachelorarbeit_AW,0.3974,0.5869,0.4739
+minimal,30_Exposé_2.Version_AnmAW,0.6202,0.5792,0.5990
+minimal,30_Exposé_AnmAW,0.6296,0.5700,0.5983
+minimal,31_Expose_AnmAW,0.5271,0.6051,0.5634
+minimal,32_Expose_AnmAW,0.6493,0.6094,0.6287
+minimal,32_Expose_V2_AnmAW,0.5988,0.5672,0.5826
+minimal,33_Exposé_v1 _AnmAW,0.6773,0.5566,0.6110
+minimal,34_Exposé_Sommersemester2020_V1_AnmAW,0.4557,0.5004,0.4770
+minimal,34_Exposé_V4_AnmAW,0.5080,0.5300,0.5187
+minimal,35_Expose_AW,0.5089,0.5422,0.5250
+minimal,35_Expose_Thesis2-AnmAW,0.6107,0.6467,0.6282
+minimal,35_Expose_Thesis_AnmAW,0.6090,0.5756,0.5918
+minimal,36_Exposé_Thesis_v3-1_AnmAW,0.4878,0.5865,0.5326
+minimal,36_Exposé_Thesis_v3_AnmAW,0.5066,0.5361,0.5209
+minimal,37_Exposé_v2_AW,0.5818,0.5416,0.5610
+minimal,38_Exposé1_anmAW,0.6051,0.5798,0.5922
+minimal,38_Exposé2-AnmAW,0.4661,0.5483,0.5039
+minimal,39_Expose-Abgabe1_anmAW,0.4578,0.5010,0.4784
+minimal,39_Expose-Abgabe2-anmAW,0.5421,0.5302,0.5361
+minimal,3_Bachelorarbeit Exposé_Version2_AnmAW_,0.5904,0.5493,0.5691
+minimal,40_ExposeBachelorarbeit_v1_AnmerkungenAW,0.5139,0.6113,0.5584
+minimal,40_ExposeBachelorarbeitÜberarbeiteteteVersion_AnmerkungenAW,0.5651,0.5983,0.5812
+minimal,41_Exposee_v2_AnmerkungenAW,0.6032,0.5942,0.5986
+minimal,42_Exposeentwurf Bachelorarbeit_Stand1703_AnmAW,0.6281,0.5453,0.5838
+minimal,43_Expose_NEU_AnmAW,0.5795,0.6174,0.5979
+minimal,44_Expose_AW,0.4521,0.5851,0.5101
+minimal,45_Expose-Vorschlag_kommentiert,0.4889,0.5689,0.5259
+minimal,46_Expose 1. Entwurf_AW,0.5145,0.5343,0.5242
+minimal,48_Kurzexpose_Bachelorthesis_ Vorschlag_2_AnmAW,0.4599,0.4996,0.4789
+minimal,49_Kurzexposé_AnmerkungenAW,0.5518,0.6022,0.5759
+minimal,4_Bachelorarbeit_Expose_Anm2AW,0.6296,0.6156,0.6225
+minimal,4_Bachelorarbeit_Expose_Anm3AW,0.5036,0.5070,0.5053
+minimal,4_Bachelorarbeit_Expose_AnmAW_verbessert ,0.6203,0.6075,0.6138
+minimal,4_Bachelorarbeit_Expose_anmAW,0.5186,0.4750,0.4959
+minimal,50_Kurzexpose_Neu_AnmAW,0.4535,0.5060,0.4783
+minimal,51_Exposé-Bachelorthesis_AW,0.4510,0.6142,0.5201
+minimal,53_Thema Ausarbeitung_ Bachelorarbeit_AnmAW,0.3999,0.4673,0.4310
+minimal,54_Thesis_Expose_Entwurf_AnmerkungenAW,0.6398,0.6243,0.6319
+minimal,54_Thesis_Expose_Entwurf_V4_AnmAW,0.5419,0.5477,0.5447
+minimal,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_AnmAW,0.5619,0.5949,0.5779
+minimal,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v2_AnmAW,0.6413,0.6213,0.6312
+minimal,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v3_AnmAW,0.4938,0.5961,0.5401
+minimal,5_Bachelor-ThemenvorschlagAnmAW_24April,0.5417,0.5261,0.5338
+minimal,6_BA_AnmAW,0.6148,0.6212,0.6180
+minimal,7_Exposé - Bachelor_AnmAW,0.6027,0.6239,0.6131
+minimal,8_Exposé _Bachelorarbeit_AnmAW,0.5667,0.5907,0.5784
+minimal,9_Exposé 2 Bachelorarbeit_anmAW,0.5423,0.5353,0.5388
+minimal,9_Exposé 3  Bachelorarbeit_AnmAW,0.5663,0.5670,0.5666
+no_structure,10_Expose 2_AnmerkungenAW,0.5672,0.5704,0.5688
+no_structure,12_Exposé Bachelorarbeit_AnmAW,0.6630,0.6080,0.6343
+no_structure,13_Expose BachelorarbeitAnmAw,0.6289,0.6241,0.6265
+no_structure,13_Expose Bachelorarbeit_Version_2_AnmAW,0.6617,0.6408,0.6511
+no_structure,14_Exposé Bachelorarbeit_Stand070120_AnmAW,0.6649,0.6358,0.6500
+no_structure,14_Exposé Bachelorarbeit_Stand210120_AnmAW,0.5967,0.6476,0.6211
+no_structure,15_Exposé Bachelorarbeit_Version1_AnmAW,0.6490,0.6007,0.6239
+no_structure,17_Exposé Bachelorthesis V02- AnmAW,0.6423,0.6115,0.6265
+no_structure,17_Exposé Bachelorthesis V03 - AnmAW,0.6172,0.6156,0.6164
+no_structure,19_Exposé Bachelorthesis_Version2_anmAW,0.5851,0.6368,0.6098
+no_structure,19_Exposé Bachelorthesis_Version3_anmAW,0.6102,0.6114,0.6108
+no_structure,1_2.Exposé_Bachelorthesis_AnmAW,0.6521,0.6230,0.6372
+no_structure,20_TK_Exposé BachelorthesisV03_AnmAW,0.6498,0.6381,0.6439
+no_structure,21_Exposé Thesis_AnmAW,0.5572,0.5827,0.5697
+no_structure,21_Exposé Thesis_alt_AnmAW,0.5675,0.5240,0.5448
+no_structure,22_Exposé_AnmAW,0.6527,0.6241,0.6381
+no_structure,22_Exposé_AnmAW - Kopie,0.6527,0.6241,0.6381
+no_structure,23_Expose_BA_v1_AnmAW,0.6605,0.6048,0.6314
+no_structure,23_TK_Expose_BA_v2_AnmAW,0.6482,0.6072,0.6270
+no_structure,24_Exposé_Bachelorarbeit_bearbeitet_AnmAW,0.6219,0.5936,0.6074
+no_structure,25_Exposé_Bachelorarbeit_AnmAW,0.6766,0.6279,0.6513
+no_structure,26_Exposé_Bachelorarbeit_anmAW,0.6628,0.6073,0.6338
+no_structure,27_Exposé_Bachelorthesis_AnmAW,0.6273,0.5888,0.6074
+no_structure,28_Exposé_AnmAW,0.6714,0.6142,0.6415
+no_structure,28_Exposé_v2_AnmerkungenAW,0.6470,0.5997,0.6224
+no_structure,29_Expose_202011_05_AnmAW,0.6333,0.6143,0.6237
+no_structure,29_Exposé_20201025_AnmAW,0.6593,0.5912,0.6234
+no_structure,2_2023_07_23_Kurzexpose_Bachelorarbeit_AW,0.4717,0.6152,0.5340
+no_structure,30_Exposé_2.Version_AnmAW,0.6456,0.6075,0.6260
+no_structure,30_Exposé_AnmAW,0.6637,0.6061,0.6336
+no_structure,31_Expose_AnmAW,0.4895,0.6268,0.5497
+no_structure,32_Expose_AnmAW,0.6503,0.6213,0.6355
+no_structure,32_Expose_V2_AnmAW,0.6538,0.6189,0.6358
+no_structure,33_Exposé_v1 _AnmAW,0.6496,0.6111,0.6298
+no_structure,34_Exposé_Sommersemester2020_V1_AnmAW,0.5767,0.6310,0.6027
+no_structure,34_Exposé_V4_AnmAW,0.6508,0.6197,0.6349
+no_structure,35_Expose_AW,0.6584,0.6238,0.6406
+no_structure,35_Expose_Thesis2-AnmAW,0.5579,0.5894,0.5732
+no_structure,35_Expose_Thesis_AnmAW,0.6447,0.5955,0.6191
+no_structure,36_Exposé_Thesis_v3-1_AnmAW,0.6396,0.6512,0.6453
+no_structure,36_Exposé_Thesis_v3_AnmAW,0.6426,0.6270,0.6347
+no_structure,37_Exposé_v2_AW,0.6495,0.5719,0.6082
+no_structure,38_Exposé1_anmAW,0.6372,0.6049,0.6207
+no_structure,38_Exposé2-AnmAW,0.6415,0.6301,0.6357
+no_structure,39_Expose-Abgabe1_anmAW,0.6248,0.6312,0.6280
+no_structure,39_Expose-Abgabe2-anmAW,0.6533,0.5923,0.6213
+no_structure,3_Bachelorarbeit Exposé_Version2_AnmAW_,0.6344,0.6549,0.6445
+no_structure,40_ExposeBachelorarbeit_v1_AnmerkungenAW,0.5510,0.6217,0.5842
+no_structure,40_ExposeBachelorarbeitÜberarbeiteteteVersion_AnmerkungenAW,0.5906,0.6077,0.5990
+no_structure,41_Exposee_v2_AnmerkungenAW,0.5623,0.5895,0.5756
+no_structure,42_Exposeentwurf Bachelorarbeit_Stand1703_AnmAW,0.5749,0.4785,0.5223
+no_structure,43_Expose_NEU_AnmAW,0.5798,0.6402,0.6085
+no_structure,44_Expose_AW,0.4891,0.6033,0.5402
+no_structure,45_Expose-Vorschlag_kommentiert,0.5094,0.6042,0.5528
+no_structure,46_Expose 1. Entwurf_AW,0.6531,0.6050,0.6281
+no_structure,48_Kurzexpose_Bachelorthesis_ Vorschlag_2_AnmAW,0.6011,0.6350,0.6176
+no_structure,49_Kurzexposé_AnmerkungenAW,0.6100,0.6453,0.6272
+no_structure,4_Bachelorarbeit_Expose_Anm2AW,0.5241,0.5477,0.5357
+no_structure,4_Bachelorarbeit_Expose_Anm3AW,0.6549,0.6313,0.6429
+no_structure,4_Bachelorarbeit_Expose_AnmAW_verbessert ,0.6025,0.6180,0.6102
+no_structure,4_Bachelorarbeit_Expose_anmAW,0.6503,0.6271,0.6385
+no_structure,50_Kurzexpose_Neu_AnmAW,0.5261,0.6240,0.5709
+no_structure,51_Exposé-Bachelorthesis_AW,0.5861,0.6176,0.6014
+no_structure,53_Thema Ausarbeitung_ Bachelorarbeit_AnmAW,0.6258,0.6484,0.6369
+no_structure,54_Thesis_Expose_Entwurf_AnmerkungenAW,0.6233,0.6164,0.6198
+no_structure,54_Thesis_Expose_Entwurf_V4_AnmAW,0.6418,0.6226,0.6320
+no_structure,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_AnmAW,0.6489,0.6398,0.6443
+no_structure,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v2_AnmAW,0.6536,0.6388,0.6461
+no_structure,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v3_AnmAW,0.6177,0.6261,0.6219
+no_structure,5_Bachelor-ThemenvorschlagAnmAW_24April,0.6453,0.6150,0.6298
+no_structure,6_BA_AnmAW,0.6300,0.6322,0.6311
+no_structure,7_Exposé - Bachelor_AnmAW,0.5221,0.6144,0.5645
+no_structure,8_Exposé _Bachelorarbeit_AnmAW,0.6540,0.6112,0.6319
+no_structure,9_Exposé 2 Bachelorarbeit_anmAW,0.6614,0.6203,0.6402
+no_structure,9_Exposé 3  Bachelorarbeit_AnmAW,0.5279,0.5279,0.5279
+no_textfeatures,10_Expose 2_AnmerkungenAW,0.5696,0.5392,0.5540
+no_textfeatures,12_Exposé Bachelorarbeit_AnmAW,0.5833,0.5339,0.5575
+no_textfeatures,13_Expose BachelorarbeitAnmAw,0.4939,0.5289,0.5108
+no_textfeatures,13_Expose Bachelorarbeit_Version_2_AnmAW,0.5369,0.5573,0.5469
+no_textfeatures,14_Exposé Bachelorarbeit_Stand070120_AnmAW,0.5817,0.5643,0.5729
+no_textfeatures,14_Exposé Bachelorarbeit_Stand210120_AnmAW,0.5341,0.5612,0.5473
+no_textfeatures,15_Exposé Bachelorarbeit_Version1_AnmAW,0.5656,0.5312,0.5478
+no_textfeatures,17_Exposé Bachelorthesis V02- AnmAW,0.5559,0.5399,0.5478
+no_textfeatures,17_Exposé Bachelorthesis V03 - AnmAW,0.5555,0.5577,0.5566
+no_textfeatures,19_Exposé Bachelorthesis_Version2_anmAW,0.5396,0.5775,0.5579
+no_textfeatures,19_Exposé Bachelorthesis_Version3_anmAW,0.5963,0.5788,0.5874
+no_textfeatures,1_2.Exposé_Bachelorthesis_AnmAW,0.5252,0.5167,0.5209
+no_textfeatures,20_TK_Exposé BachelorthesisV03_AnmAW,0.5305,0.5127,0.5214
+no_textfeatures,21_Exposé Thesis_AnmAW,0.6061,0.5811,0.5934
+no_textfeatures,21_Exposé Thesis_alt_AnmAW,0.6245,0.5929,0.6083
+no_textfeatures,22_Exposé_AnmAW,0.4709,0.4741,0.4725
+no_textfeatures,22_Exposé_AnmAW - Kopie,0.4709,0.4741,0.4725
+no_textfeatures,23_Expose_BA_v1_AnmAW,0.5438,0.5150,0.5290
+no_textfeatures,23_TK_Expose_BA_v2_AnmAW,0.5419,0.5363,0.5391
+no_textfeatures,24_Exposé_Bachelorarbeit_bearbeitet_AnmAW,0.5622,0.5481,0.5551
+no_textfeatures,25_Exposé_Bachelorarbeit_AnmAW,0.5517,0.5428,0.5472
+no_textfeatures,26_Exposé_Bachelorarbeit_anmAW,0.5202,0.4989,0.5093
+no_textfeatures,27_Exposé_Bachelorthesis_AnmAW,0.5541,0.5291,0.5413
+no_textfeatures,28_Exposé_AnmAW,0.6142,0.5641,0.5881
+no_textfeatures,28_Exposé_v2_AnmerkungenAW,0.5887,0.5474,0.5673
+no_textfeatures,29_Expose_202011_05_AnmAW,0.5653,0.5529,0.5591
+no_textfeatures,29_Exposé_20201025_AnmAW,0.5662,0.5583,0.5622
+no_textfeatures,2_2023_07_23_Kurzexpose_Bachelorarbeit_AW,0.5068,0.5630,0.5334
+no_textfeatures,30_Exposé_2.Version_AnmAW,0.6053,0.5921,0.5986
+no_textfeatures,30_Exposé_AnmAW,0.5276,0.5425,0.5350
+no_textfeatures,31_Expose_AnmAW,0.5284,0.5782,0.5522
+no_textfeatures,32_Expose_AnmAW,0.5920,0.5572,0.5741
+no_textfeatures,32_Expose_V2_AnmAW,0.5882,0.5443,0.5654
+no_textfeatures,33_Exposé_v1 _AnmAW,0.6391,0.5870,0.6119
+no_textfeatures,34_Exposé_Sommersemester2020_V1_AnmAW,0.5454,0.5846,0.5643
+no_textfeatures,34_Exposé_V4_AnmAW,0.6121,0.5782,0.5947
+no_textfeatures,35_Expose_AW,0.5464,0.5228,0.5343
+no_textfeatures,35_Expose_Thesis2-AnmAW,0.5022,0.5706,0.5343
+no_textfeatures,35_Expose_Thesis_AnmAW,0.5690,0.5401,0.5542
+no_textfeatures,36_Exposé_Thesis_v3-1_AnmAW,0.5738,0.5817,0.5777
+no_textfeatures,36_Exposé_Thesis_v3_AnmAW,0.5989,0.5898,0.5943
+no_textfeatures,37_Exposé_v2_AW,0.5342,0.5430,0.5386
+no_textfeatures,38_Exposé1_anmAW,0.5936,0.5572,0.5748
+no_textfeatures,38_Exposé2-AnmAW,0.6014,0.5792,0.5901
+no_textfeatures,39_Expose-Abgabe1_anmAW,0.5952,0.6039,0.5995
+no_textfeatures,39_Expose-Abgabe2-anmAW,0.5755,0.5306,0.5522
+no_textfeatures,3_Bachelorarbeit Exposé_Version2_AnmAW_,0.5591,0.6179,0.5870
+no_textfeatures,40_ExposeBachelorarbeit_v1_AnmerkungenAW,0.5127,0.5827,0.5455
+no_textfeatures,40_ExposeBachelorarbeitÜberarbeiteteteVersion_AnmerkungenAW,0.4867,0.5160,0.5009
+no_textfeatures,41_Exposee_v2_AnmerkungenAW,0.6224,0.5829,0.6020
+no_textfeatures,42_Exposeentwurf Bachelorarbeit_Stand1703_AnmAW,0.6189,0.5465,0.5804
+no_textfeatures,43_Expose_NEU_AnmAW,0.5649,0.5964,0.5802
+no_textfeatures,44_Expose_AW,0.5503,0.5684,0.5592
+no_textfeatures,45_Expose-Vorschlag_kommentiert,0.5566,0.5861,0.5710
+no_textfeatures,46_Expose 1. Entwurf_AW,0.5866,0.5416,0.5632
+no_textfeatures,48_Kurzexpose_Bachelorthesis_ Vorschlag_2_AnmAW,0.5754,0.5950,0.5850
+no_textfeatures,49_Kurzexposé_AnmerkungenAW,0.5261,0.5704,0.5473
+no_textfeatures,4_Bachelorarbeit_Expose_Anm2AW,0.5850,0.5596,0.5720
+no_textfeatures,4_Bachelorarbeit_Expose_Anm3AW,0.5745,0.5565,0.5653
+no_textfeatures,4_Bachelorarbeit_Expose_AnmAW_verbessert ,0.5294,0.5517,0.5404
+no_textfeatures,4_Bachelorarbeit_Expose_anmAW,0.5014,0.5275,0.5141
+no_textfeatures,50_Kurzexpose_Neu_AnmAW,0.6008,0.6263,0.6133
+no_textfeatures,51_Exposé-Bachelorthesis_AW,0.5089,0.5385,0.5233
+no_textfeatures,53_Thema Ausarbeitung_ Bachelorarbeit_AnmAW,0.5647,0.5876,0.5759
+no_textfeatures,54_Thesis_Expose_Entwurf_AnmerkungenAW,0.5944,0.5790,0.5866
+no_textfeatures,54_Thesis_Expose_Entwurf_V4_AnmAW,0.5969,0.5763,0.5864
+no_textfeatures,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_AnmAW,0.5455,0.5537,0.5496
+no_textfeatures,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v2_AnmAW,0.6269,0.6022,0.6143
+no_textfeatures,55_Expose_Potenziale und Herausforderungen von Social Intrapreneurship_v3_AnmAW,0.5421,0.5478,0.5449
+no_textfeatures,5_Bachelor-ThemenvorschlagAnmAW_24April,0.6125,0.5928,0.6025
+no_textfeatures,6_BA_AnmAW,0.5241,0.5191,0.5216
+no_textfeatures,7_Exposé - Bachelor_AnmAW,0.5404,0.5695,0.5546
+no_textfeatures,8_Exposé _Bachelorarbeit_AnmAW,0.6049,0.5737,0.5889
+no_textfeatures,9_Exposé 2 Bachelorarbeit_anmAW,0.5654,0.5591,0.5623
+no_textfeatures,9_Exposé 3  Bachelorarbeit_AnmAW,0.5235,0.4948,0.5087
